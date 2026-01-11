@@ -23,1022 +23,1022 @@ f000000854 n/a
 f000000855 n/a  
 f000000865 n/a  
 f000000866 n/a  
-f000000868 ***CRASHES GAME***
-f000000869 white mist sucked in to central point (good for health inject)
-f000000870 n/a
-f000000880 small lightning on hit
-f000000900 steam then black leaves, 10 seconds
-f000000910 n/a
-f000000911 n/a
-f000000912 n/a
-f000000913 n/a
-f000000914 n/a
-f000000915 bright yellow flash, 1 second duration, centered on middle of body
-f000000916 bright yellow flash, 1 second duration, centered on the floor
-f000000917 brighter yellow flash, 1 second duration, centered on the floor
-f000000918 bright yellow flash, 1 second duration, centered on the floor
-f000000919 small yellow light centered on body fade in/fade out, 1 second duration
-f000000920 short flame aura, 3 seconds
-f000000935 red fire-like aura (hp regen)
-f000000940 green aura (stamina regen)
-f000000945 steaming aura
-f000000950 golden aura
-f000000960 tiny purple light like a firely fade in and out
-f000000961 miniscule blue spec of light that flies to target but ***CRASHES GAME****
-f000000962 bright yellow light fade in and out centered on ground
-f000002001 n/a
-f000002005 n/a
-f000002020 ***CRASHES GAME***
-f000002022 ***CRASHES GAME***
-f000002023 ***CRASHES GAME***
-f000002024 ***CRASHES GAME***
-f000002031 ***CRASHES GAME***
-f000002032 ***CRASHES GAME***
-f000002033 ***CRASHES GAME***
-f000002101 ***CRASHES GAME***
-**********
-f000002117 MASTER LIGHT SWITCH - this one overwrites many other lights and if you dont have it they wont work
-**********
-f000002125 n/a
-f000006000
-f000006100
-f000006105
-f000006120
-f000006200 black circle sphere but ***CRASHES GAME***
-f000006202 very quick small bright flash
-f000006203 very quick medium bright flash
-f000006205 orange sphere with lines streaming off but ***CRASHES GAME***
-f000006210 orange sphere with lines streaming off but ***CRASHES GAME***
-f000006215 big yellow flash centered on body
-f000006300 ***CRASHES GAME***
-f000006302 short bright flash centered on body
-f000006303 short bright flash centered on body
-f000006305 red fire streaks ***CRASHES GAME***
-f000006310 small flash wherever the weapon hits
-f000006311 yellow light fade in and out, not a flash
-f000006312 smaller yellow light fade in and out, not a flash
-f000006313 tiny yellow light fade in and out, not a flash
-f000006315 small orange light fade in and out where weapon connects, flash
-f000006316 orange light explosion fade in and out where weapon connects, flash
-f000006317 small orange light flash on hit
-f000006318 tiny orange explosion light flash on hit
-f000006400 n/a
-f000006402 flamesprayer
-f000006403 brighter flickery light centered on body, 5 second duration
-f000006405 n/a
-f000006410 n/a
-f000006415 n/a
-f000006500 n/a
-f000006502 rosmarius spray (doesn't render yet)
-f000006503 sucking sound and then distant train horn blows twice
-f000006505 n/a
-f000006510 n/a
-f000006515 n/a
-f000007002 red/black blood gushing all over and reducing till gone, 5 sec duration
-f000007007 red/black blood gushing all over and reducing till gone, 5 sec duration
-f000007100 red/black blood gushing all over and reducing till gone, 5 sec duration
-f000007101 white spot on hit, circular, but stretched out horizontally
-f000007102 white circular flash on hit
-f000007103 small yellow glow , duration 1 sec, fade out
-f000007104 n/a
-f000007105 small short yellow flash
-f000007106 lightning flash, centered on ground
-f000007107 small red burst, stretched out horizontally
-f000007108 n/a
-f000007109 small yellow flash
-f000007110 yellow flash
-f000007111 small red flash and a little blood spurts out to the left
-f000007112 small yellow flash
-f000007113 ***CRASHES GAME***
-f000007200 n/a
-f000007205 n/a
-f000007210 lightning, 5 small sparks, 5 seconds duration
-f000007211 lightning, small spark
-f000007500 green flash, 1 second duration, centered on target floor
-f000007501 green flash, 1 second duration, centered on player floor
-f000007600 n/a
-f000007656 wavey air effect, medium distance forward of activation point
-f000007657 wavey air effect slightly up and to the left of activation point
-f000007659 wavey air effect slight slight left of activation point
-f000002000
-f000003000
-f000020305 n/a
-f000020359 yellow flash with sound, fade out 2 seconds
-f000021051 yellow flash, 5 seconds
-f000021052 yellow flash, 5 seconds
-f000020200 Molotov explosion
-f000020208 numbing mist break on hit
-f000063111 tons of little messengers fly out on hit in a sphere
-f000100000 bright white light centered on ground, 5 second fade out
-f000100010 bright white light centered on ground, 5 second fade out
-f000100020 bright white light centered on ground, 5 second fade out
-f000100030 bright white light centered on ground, 5 second fade out
-f000100040 bright white light centered on ground, 5 second fade out
-f000100100 yellow light that fades in and out with little purple dot
-f000100110 yellow light that fades in and out with little purple dot
-f000100120 yellow light that fades in and out with little purple dot
-f000100130 yellow light that fades in and out with little purple dot
-f000100140 yellow light that fades in and out with little purple dot
-f000100200 yellow light that fades in and out with little purple dot - warp lantern
-f000700003 bright blue light
-f000820000 person size oblong wavy air, fade out 3 seconds
-f000822000 wavy air effect for fog wall with green light centered on middle of wall
-f000824100 **** Wavy air effect for most fog walls 
-f000824103 wavy air effect for fog wall with green light included centered on floor
-f000828000 big white light that cuts across screen
-f000900100 small yellow flickery light (good for lantern?)
-f000900101 actual candle flame with flicker
-f000900102 green light with flame slow flicker
-f000900103 actual candle flame with flicker and greenish mist
-f000900115 small yellow light
-f000900116 small yellow light
-f000900120 small green double flickery light
-f000900130 small item glow
-f000900131 bright item glow fast flash
-f000900200 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900202 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900203 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900204 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900205 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900206 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900207 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900208 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900209 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***
-f000900210 spotlight on head height
-f000900211 spotlight on head height
-f000900212 spotlight on head height
-f000900213 spotlight on head height
-f000900214 spotlight on head height
-f000900215 spotlight on head height
-f000900216 spotlight on head height
-f000900217 spotlight on head height
-f000900218 spotlight on head height
-f000900219 spotlight on head height
-f000900250 n/a
-f000900251 n/a
-f000900252 n/a
-f000900257 n/a
-f000900260 super bright yellow flickery light
-f000900261 n/a
-f000900270 very bright pulsing light half body height
-f000922140 n/a
-f000923231 n/a
-f000924095 super bright yellow light, slight flicker
-f000929115 n/a
-f000929205 *** CRASHES GAME ***
-f000929206 *** CRASHES GAME ***
-f000929207 n/a
-f000929208 n/a
-f001000000 n/a
-f001000001 n/a
-f001000002 n/a
-f001000003 n/a
-f001000004 n/a
-f001000005 n/a
-f001000006 n/a
-f001000009 n/a 
-f001000010 n/a
-f001000011 n/a
-f001000012 n/a
-f001000019 n/a
-f001000020 n/a
-f001000021 n/a
-f001000022 n/a
-f001000027 n/a
-f001000221 n/a
-f001000321 n/a
-f001000501 throws red debris up from the ground then falls back down
-f001000502 throws red debris up from the ground then falls back down
-f001000503 throws red debris up from the ground then falls back down
-f001000521 n/a
-f001000531 throws white debris up from the ground then falls back down
-f001000532 throws red debris up from the ground then falls back down
-f001000600 n/a
-f001000601 throws big red debris up from the ground then falls back down
-f001000602 throws big red debris up from the ground then falls back down
-f001000603 throws bigger red debris up from ground then falls back down
-f001000621 n/a
-f001000631 throws bigger white debris up from ground and then falls back down
-f001000632 throws big red debris up from the ground then falls back down
-f001100000 white light then fades out, 1 second duration
-f001100100 n/a
-f001000400 white light to bright white light to yellow light then fade out
-f001101000 white light, 5 second duration
-f001101001 quick white flash on hit, small explosion
-f001101100 n/a
-f001101200 1 second delay they white flash centered on ground with sound
-f001101400 white to yellow to white light, fade out, 5 seconds duration
-f001101401 n/a
-f001101405 red messengers SFX
-f001103000 white light with healing injection sound
-f001103100 n/a
-f001103300 yellow to white light, fade out, **blood echoes retrieve SFX
-f001103400 light with 2 pulses, yellow then fade then white then fade
-f001103401 n/a
-f001105000 white light, face out, 5 seconds
-f001111001 1 second delay and then bluish-purple light centered on hit, fade out
-f001111002 1 second delay and then bluish-white light centered on hit, fade out
-f001111003 1 second delay and then bluish-white light centered on hit, fade out
-f001111101 1 second delay and then dimmer bluish light centered on hit, fade out
-f001111102 1 second delay and then bluish-white light centered on hit, fade out
-f001111103 1 second delay and then bluish-white light centered on hit, fade out
-f001200001 n/a
-f001200003 n/a
-f001200012 n/a
-f001200101 n/a
-f001200103 n/a
-f001200112 n/a
-f001200132 n/a
-f001500001 n/a
-f001500101 n/a
-f100015050 n/a
-f103015050 weird low-res blood spurt, as if it was close to the players eyes
-f103015056 fire weapon type sfx but ***CRASHES GAME***
-f103015057 ***CRASHES GAME***
-f103015059 ***CRASHES GAME***
-f103015060 weird blood spurt, half normal, half super low res as if it close to players eyes
-f103015063 ***CRASHES GAME***
-f103020040 white circle of mist explodes outward in waves at activation point
-f103021040 white circle of mist explodes outward in waves at activation point
-f103022040 white circle of mist explodes outward in waves at activation point
-f103023040 white circle of mist explodes outward in waves at activation point
-f103024040 white circle of mist explodes outward in waves at activation point
-f103025040 white circle of mist explodes outward in waves at activation point
-f103026040 white circle of mist explodes outward in waves at activation point
-f103027040 white circle of mist explodes outward in waves at activation point
-f103028040 white circle of mist explodes outward in waves at activation point
-f190000027 n/a
-f190000174 n/a
-f190000200 n/a
-f190000300 n/a
-f190001000 n/a
-f190001200 n/a
-f190001300 n/a
-f190002000 n/a
-f190002200 n/a
-f190002300 n/a
-f190010000 n/a
-f190013000 n/a
-f190020000 n/a
-f190020060 n/a
-f190040000 n/a
-f190060000 n/a
-f190740000 n/a
-f190890400 n/a
-f000020256 healing blood vial sfx
-f000020290
-f000020291
-f000020292
-f000020294
-f000020295
-f000020296
-f000020297
-f000200001
-f000202008
-f000203008
-f000252010
-f190890400 exploding blood
-f190890000 tiny normal blood
-f190013000 small explosion
-f190012000 tiny explosion
-f190011000 even tinier explosion
-f190010000 even tinier explosion 2
-f190002300 weird black and grey rectangles
-f190002200 transparent black and grey rectangles
-f190001300 transparent black squares
-f190001200 transparent black squares
-f190000300 transparent black squares
-f190000075 grey exploding blood (from goo monsters)
-f190000074 grey regular blood
-f190000060 red blood stream that shoots far
-f190000031 weapon hit on wall sparks type thing
-f190000002 rectangle explodey blood
-f190000001 pieces of paper flying out like when you destroy books
-f190000000 BLOOD
-f106008027 dark red blood splatter on the floor
-f106008020 dark red blood splatter on the floor 2
-
-light type
-
-f000200000 white light
-f000100200 lantern light glowing
-f000924095 torch with light source
-f000900117 bright pulsing light
-f000900100 nice low torch light (greenish)
-f000900110 super bright light
-f000900105 super bright light
-f000828000 brightest light ever
-f000824103 bluish smoke that eventually fades, good for a new spell
-f000822000 pulsing high light with waves
-f000820000 n/a
-f000700003 blue fast pulsing light
-f000650094 n/a
-f000650089 n/a
-f000650021 n/a
-f000650017 n/a
-f000627390 n/a
-f000625191 n/a
-f000620512 n/a
-f000620505 n/a
-f000900219 n/a
-f000900250 n/a
-f000922140 n/a
-f000923231 n/a
-f000924095 yellow light (long decay)
-f000929115 n/a
-f000929205 n/a
-f001000000 n/a
-f001000100 n/a
-f001000200 n/a
-
-m24
-f000924043 blue rays from right
-f000924047 frontal foggy godrays
-f000924048 difuse redish mist
-f000924080 yellow flame to the right (light)
-f000924081 flame close to the right
-f000924082 greenish central light
-f000924083 yellow flame to the right (light)
-f000924084 green light to the right (?)
-f000924086 yellowish difuse light
-f000924087 streetlamp
-f000924089 fuego
-f000924092 central yellow light
-f000924093 small candle flame
-f000924094 small candle flame
+f000000868 ***CRASHES GAME***  
+f000000869 white mist sucked in to central point (good for health inject)  
+f000000870 n/a  
+f000000880 small lightning on hit  
+f000000900 steam then black leaves, 10 seconds  
+f000000910 n/a  
+f000000911 n/a  
+f000000912 n/a  
+f000000913 n/a  
+f000000914 n/a  
+f000000915 bright yellow flash, 1 second duration, centered on middle of body  
+f000000916 bright yellow flash, 1 second duration, centered on the floor  
+f000000917 brighter yellow flash, 1 second duration, centered on the floor  
+f000000918 bright yellow flash, 1 second duration, centered on the floor  
+f000000919 small yellow light centered on body fade in/fade out, 1 second duration  
+f000000920 short flame aura, 3 seconds  
+f000000935 red fire-like aura (hp regen)  
+f000000940 green aura (stamina regen)  
+f000000945 steaming aura  
+f000000950 golden aura  
+f000000960 tiny purple light like a firely fade in and out  
+f000000961 miniscule blue spec of light that flies to target but ***CRASHES GAME****  
+f000000962 bright yellow light fade in and out centered on ground  
+f000002001 n/a  
+f000002005 n/a  
+f000002020 ***CRASHES GAME***  
+f000002022 ***CRASHES GAME***  
+f000002023 ***CRASHES GAME***  
+f000002024 ***CRASHES GAME***  
+f000002031 ***CRASHES GAME***  
+f000002032 ***CRASHES GAME***  
+f000002033 ***CRASHES GAME***  
+f000002101 ***CRASHES GAME***  
+**********  
+f000002117 MASTER LIGHT SWITCH - this one overwrites many other lights and if you dont have it they wont work  
+**********  
+f000002125 n/a  
+f000006000  
+f000006100  
+f000006105  
+f000006120  
+f000006200 black circle sphere but ***CRASHES GAME***  
+f000006202 very quick small bright flash  
+f000006203 very quick medium bright flash  
+f000006205 orange sphere with lines streaming off but ***CRASHES GAME***  
+f000006210 orange sphere with lines streaming off but ***CRASHES GAME***  
+f000006215 big yellow flash centered on body  
+f000006300 ***CRASHES GAME***  
+f000006302 short bright flash centered on body  
+f000006303 short bright flash centered on body  
+f000006305 red fire streaks ***CRASHES GAME***  
+f000006310 small flash wherever the weapon hits  
+f000006311 yellow light fade in and out, not a flash  
+f000006312 smaller yellow light fade in and out, not a flash  
+f000006313 tiny yellow light fade in and out, not a flash  
+f000006315 small orange light fade in and out where weapon connects, flash  
+f000006316 orange light explosion fade in and out where weapon connects, flash  
+f000006317 small orange light flash on hit  
+f000006318 tiny orange explosion light flash on hit  
+f000006400 n/a  
+f000006402 flamesprayer  
+f000006403 brighter flickery light centered on body, 5 second duration  
+f000006405 n/a  
+f000006410 n/a  
+f000006415 n/a  
+f000006500 n/a  
+f000006502 rosmarius spray (doesn't render yet)  
+f000006503 sucking sound and then distant train horn blows twice  
+f000006505 n/a  
+f000006510 n/a  
+f000006515 n/a  
+f000007002 red/black blood gushing all over and reducing till gone, 5 sec duration  
+f000007007 red/black blood gushing all over and reducing till gone, 5 sec duration  
+f000007100 red/black blood gushing all over and reducing till gone, 5 sec duration  
+f000007101 white spot on hit, circular, but stretched out horizontally  
+f000007102 white circular flash on hit  
+f000007103 small yellow glow , duration 1 sec, fade out  
+f000007104 n/a  
+f000007105 small short yellow flash  
+f000007106 lightning flash, centered on ground  
+f000007107 small red burst, stretched out horizontally  
+f000007108 n/a  
+f000007109 small yellow flash  
+f000007110 yellow flash  
+f000007111 small red flash and a little blood spurts out to the left  
+f000007112 small yellow flash  
+f000007113 ***CRASHES GAME***  
+f000007200 n/a  
+f000007205 n/a  
+f000007210 lightning, 5 small sparks, 5 seconds duration  
+f000007211 lightning, small spark  
+f000007500 green flash, 1 second duration, centered on target floor  
+f000007501 green flash, 1 second duration, centered on player floor  
+f000007600 n/a  
+f000007656 wavey air effect, medium distance forward of activation point  
+f000007657 wavey air effect slightly up and to the left of activation point  
+f000007659 wavey air effect slight slight left of activation point  
+f000002000  
+f000003000  
+f000020305 n/a  
+f000020359 yellow flash with sound, fade out 2 seconds  
+f000021051 yellow flash, 5 seconds  
+f000021052 yellow flash, 5 seconds  
+f000020200 Molotov explosion  
+f000020208 numbing mist break on hit  
+f000063111 tons of little messengers fly out on hit in a sphere  
+f000100000 bright white light centered on ground, 5 second fade out  
+f000100010 bright white light centered on ground, 5 second fade out  
+f000100020 bright white light centered on ground, 5 second fade out  
+f000100030 bright white light centered on ground, 5 second fade out  
+f000100040 bright white light centered on ground, 5 second fade out  
+f000100100 yellow light that fades in and out with little purple dot  
+f000100110 yellow light that fades in and out with little purple dot  
+f000100120 yellow light that fades in and out with little purple dot  
+f000100130 yellow light that fades in and out with little purple dot  
+f000100140 yellow light that fades in and out with little purple dot  
+f000100200 yellow light that fades in and out with little purple dot - warp lantern  
+f000700003 bright blue light  
+f000820000 person size oblong wavy air, fade out 3 seconds  
+f000822000 wavy air effect for fog wall with green light centered on middle of wall  
+f000824100 **** Wavy air effect for most fog walls   
+f000824103 wavy air effect for fog wall with green light included centered on floor  
+f000828000 big white light that cuts across screen  
+f000900100 small yellow flickery light (good for lantern?)  
+f000900101 actual candle flame with flicker  
+f000900102 green light with flame slow flicker  
+f000900103 actual candle flame with flicker and greenish mist  
+f000900115 small yellow light  
+f000900116 small yellow light  
+f000900120 small green double flickery light  
+f000900130 small item glow  
+f000900131 bright item glow fast flash  
+f000900200 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900202 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900203 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900204 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900205 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900206 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900207 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900208 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900209 ** PROB SOMETHING WITH ACTUAL ITEM ICON-CRASHES GAME WITH OBJ ERROR***  
+f000900210 spotlight on head height  
+f000900211 spotlight on head height  
+f000900212 spotlight on head height  
+f000900213 spotlight on head height  
+f000900214 spotlight on head height  
+f000900215 spotlight on head height  
+f000900216 spotlight on head height  
+f000900217 spotlight on head height  
+f000900218 spotlight on head height  
+f000900219 spotlight on head height  
+f000900250 n/a  
+f000900251 n/a 
+f000900252 n/a 
+f000900257 n/a  
+f000900260 super bright yellow flickery light    
+f000900261 n/a  
+f000900270 very bright pulsing light half body height  
+f000922140 n/a  
+f000923231 n/a  
+f000924095 super bright yellow light, slight flicker  
+f000929115 n/a  
+f000929205 *** CRASHES GAME ***  
+f000929206 *** CRASHES GAME ***  
+f000929207 n/a  
+f000929208 n/a  
+f001000000 n/a  
+f001000001 n/a  
+f001000002 n/a  
+f001000003 n/a  
+f001000004 n/a  
+f001000005 n/a  
+f001000006 n/a  
+f001000009 n/a  
+f001000010 n/a  
+f001000011 n/a  
+f001000012 n/a  
+f001000019 n/a  
+f001000020 n/a  
+f001000021 n/a  
+f001000022 n/a  
+f001000027 n/a  
+f001000221 n/a  
+f001000321 n/a  
+f001000501 throws red debris up from the ground then falls back down  
+f001000502 throws red debris up from the ground then falls back down  
+f001000503 throws red debris up from the ground then falls back down  
+f001000521 n/a  
+f001000531 throws white debris up from the ground then falls back down  
+f001000532 throws red debris up from the ground then falls back down  
+f001000600 n/a  
+f001000601 throws big red debris up from the ground then falls back down  
+f001000602 throws big red debris up from the ground then falls back down  
+f001000603 throws bigger red debris up from ground then falls back down  
+f001000621 n/a  
+f001000631 throws bigger white debris up from ground and then falls back down  
+f001000632 throws big red debris up from the ground then falls back down  
+f001100000 white light then fades out, 1 second duration  
+f001100100 n/a  
+f001000400 white light to bright white light to yellow light then fade out  
+f001101000 white light, 5 second duration  
+f001101001 quick white flash on hit, small explosion  
+f001101100 n/a  
+f001101200 1 second delay they white flash centered on ground with sound  
+f001101400 white to yellow to white light, fade out, 5 seconds duration  
+f001101401 n/a  
+f001101405 red messengers SFX  
+f001103000 white light with healing injection sound  
+f001103100 n/a  
+f001103300 yellow to white light, fade out, **blood echoes retrieve SFX  
+f001103400 light with 2 pulses, yellow then fade then white then fade  
+f001103401 n/a  
+f001105000 white light, face out, 5 seconds  
+f001111001 1 second delay and then bluish-purple light centered on hit, fade out  
+f001111002 1 second delay and then bluish-white light centered on hit, fade out  
+f001111003 1 second delay and then bluish-white light centered on hit, fade out  
+f001111101 1 second delay and then dimmer bluish light centered on hit, fade out  
+f001111102 1 second delay and then bluish-white light centered on hit, fade out  
+f001111103 1 second delay and then bluish-white light centered on hit, fade out  
+f001200001 n/a  
+f001200003 n/a  
+f001200012 n/a  
+f001200101 n/a  
+f001200103 n/a  
+f001200112 n/a  
+f001200132 n/a  
+f001500001 n/a  
+f001500101 n/a  
+f100015050 n/a  
+f103015050 weird low-res blood spurt, as if it was close to the players eyes  
+f103015056 fire weapon type sfx but ***CRASHES GAME***  
+f103015057 ***CRASHES GAME***  
+f103015059 ***CRASHES GAME***  
+f103015060 weird blood spurt, half normal, half super low res as if it close to players eyes  
+f103015063 ***CRASHES GAME***  
+f103020040 white circle of mist explodes outward in waves at activation point  
+f103021040 white circle of mist explodes outward in waves at activation point  
+f103022040 white circle of mist explodes outward in waves at activation point  
+f103023040 white circle of mist explodes outward in waves at activation point  
+f103024040 white circle of mist explodes outward in waves at activation point  
+f103025040 white circle of mist explodes outward in waves at activation point  
+f103026040 white circle of mist explodes outward in waves at activation point  
+f103027040 white circle of mist explodes outward in waves at activation point  
+f103028040 white circle of mist explodes outward in waves at activation point  
+f190000027 n/a  
+f190000174 n/a  
+f190000200 n/a  
+f190000300 n/a  
+f190001000 n/a  
+f190001200 n/a  
+f190001300 n/a  
+f190002000 n/a  
+f190002200 n/a  
+f190002300 n/a  
+f190010000 n/a  
+f190013000 n/a  
+f190020000 n/a  
+f190020060 n/a  
+f190040000 n/a  
+f190060000 n/a  
+f190740000 n/a  
+f190890400 n/a  
+f000020256 healing blood vial sfx  
+f000020290  
+f000020291  
+f000020292  
+f000020294  
+f000020295  
+f000020296  
+f000020297  
+f000200001  
+f000202008  
+f000203008  
+f000252010  
+f190890400 exploding blood  
+f190890000 tiny normal blood  
+f190013000 small explosion  
+f190012000 tiny explosion  
+f190011000 even tinier explosion  
+f190010000 even tinier explosion 2  
+f190002300 weird black and grey rectangles  
+f190002200 transparent black and grey rectangles  
+f190001300 transparent black squares  
+f190001200 transparent black squares  
+f190000300 transparent black squares  
+f190000075 grey exploding blood (from goo monsters)  
+f190000074 grey regular blood  
+f190000060 red blood stream that shoots far  
+f190000031 weapon hit on wall sparks type thing  
+f190000002 rectangle explodey blood  
+f190000001 pieces of paper flying out like when you destroy books  
+f190000000 BLOOD  
+f106008027 dark red blood splatter on the floor  
+f106008020 dark red blood splatter on the floor 2  
+  
+light type  
+  
+f000200000 white light  
+f000100200 lantern light glowing  
+f000924095 torch with light source  
+f000900117 bright pulsing light  
+f000900100 nice low torch light (greenish)  
+f000900110 super bright light  
+f000900105 super bright light  
+f000828000 brightest light ever  
+f000824103 bluish smoke that eventually fades, good for a new spell  
+f000822000 pulsing high light with waves  
+f000820000 n/a  
+f000700003 blue fast pulsing light  
+f000650094 n/a  
+f000650089 n/a  
+f000650021 n/a  
+f000650017 n/a  
+f000627390 n/a  
+f000625191 n/a  
+f000620512 n/a  
+f000620505 n/a  
+f000900219 n/a  
+f000900250 n/a  
+f000922140 n/a  
+f000923231 n/a  
+f000924095 yellow light (long decay)  
+f000929115 n/a  
+f000929205 n/a  
+f001000000 n/a  
+f001000100 n/a  
+f001000200 n/a  
+  
+m24  
+f000924043 blue rays from right  
+f000924047 frontal foggy godrays  
+f000924048 difuse redish mist  
+f000924080 yellow flame to the right (light)  
+f000924081 flame close to the right  
+f000924082 greenish central light  
+f000924083 yellow flame to the right (light)  
+f000924084 green light to the right (?)  
+f000924086 yellowish difuse light  
+f000924087 streetlamp  
+f000924089 fuego  
+f000924092 central yellow light  
+f000924093 small candle flame  
+f000924094 small candle flame  
 f000924096 yellow centered light
-f000924097 big centered yellow light
-f000924098 bigger centered yellow light
-f000924099 giantic centered yellow light laming noise
-f000924101 weird bad flame
-f000924103 giant inferno flame
-f000924110 giant spotlight from above
-f000924111 centered spotlight
-f000924112 redish flame
-f000929200 giant abductor light *trigger
-f000929203 giant smoke bomb *tr
-f000929225 explosive bomb *tr
-f000929226 giant activating explotion *tr
-
-m24_02
-f000626000 lantern with led
-f000625721 mega white flashbang
-f000625715 white lights activation persevere
-f000625706 rain of rocks
-f000625705 waveforce with rocks
-f000625700 crashes
-
-Patch DCX
-f000000110 white light with negative void
-f000000117 greenblue light with negative void and grey gooblood
-f000000118 same but red
-f000000120 greenblue light with small void on tip
-f000000121 same but big void
-f000000122 red light with small void on tip
-f000000124 same but orange
-f000000127 same but violet
-f000000128 same but less quick
-f000000129 same but slower
-f000000136 violet light with void
-f000000137 violet light with big void that closes
-f000000138 same
-f000000139 same with grey gooblood
-f000000170 healing effect
-f000000175 same but dimmer
-f000000179 short yellow spot light
-f000000186 nothing ?
-f000000187 short white flash
-f000000189 same
-f000000190 same
-f000000211 greenblue spotlight
-f000000212 red spotlight
-f000000213 purple spotlight
-f000000214 violet spotlight
-f000000215 same
-f000000230 mist suck
-f000000231 mist out
-f000000300 circular mist
-f000000320 yellow activation
-f000000340 white bang with circular mist
-f000000341 white bang with red decay
-f000000342 same as 340
-f000000456 same as 341
-f000000459 white bang and mist
-f000000520 nothing
-f000000556 blood spatter with another later
-f000000559 same
-f000000602 nothing
-f000000604 nothing
-f000000605 nothing
-f000000606 nothing
-f000000607 red halo
-f000000608 nothing
-f000000614 nothing
-f000000615 nothing
-f000000616 nothing
-f000000618 nothing
-f000000624 nothing
-f000000625 nothing
-f000000806 nothing
-f000000810 nothing 
-f000000820 wide blood burst
-f000000821 huge blood burst
-f000000830 blood burst
-f000000855 nothing
-f000000868 hard crash
-f000000915 big yellow bang
-f000000935 nothing
-f000000940 nothing
-f000003026 nothing
-f000003031 nothing
-f000003126 nothing
-f000003131 nothing
-f000003301 flying rocks
-f000003302 circle air suck
-f000003303 flying rocks
-f000003326 nothing
-f000003331 rocks flying with bang
-f000003332 rocks flying
-f000003426 nothing
-f000003431 flying lil rocks
-f000003432 flying lil rocks
-f000003526 nothing
-f000003531 nothing
-f000003626 nothing
-f000003631 nothing
-f000006001 fast bang
-f000006010 small bang
-f000006011 small bang
-f000006012 small bang
-f000006013 small bang
-f000006110 small bang
-f000006111 small bang
-f000006112 small bang
-f000006113 small bang
-f000006115 big bang
-f000006116 small bang
-f000006117 small bang
-f000006118 small bang
-f000006130 small bang
-f000006131 small bang
-f000006132 small bang
-f000006133 small bang
-f000006135 bang with faded shadow
-f000006136 same
-f000006137 same
-f000006138 bang
-f000006202 gunexplotion
-f000006203 biggunexplotion
-f000006210 long gunxplotion
-f000006215 same
-f000006310 gun bang with bullets
-f000006311 same
-f000006312 same
-f000006313 same
-f000006314 same
-f000006315 same
-f000006316 same
-f000006317 same
-f000006318 same
-f000006400 nothing
-f000006402 big yellow flame
-f000006403 biggest yellow flame
-f000006405 nothing
-f000006500
-f000006502 sound of wind ?
-f000006503
-f000006505 
-f000007101 white flash
-f000007102 white flash
-f000007104 black flash
-f000007105 white flash
-f000007109 3 small yellow flash
-f000007113 yellow flash
-f000007500 white flash short
-f000008021 yellow light
-f000008023 aquagreen flames
-f000008024 veeeery yellow light
-f000008025 white light
-f000008026 green light
-f000010618 nothing
-f000010718 nothing
-f000010810 nothing
-f000010830 blood splash
-f000010910 nothing
-f000010930 blood splash
-f000020004 dagger
-f000020005 dagger
-f000020105 hard crash
-f000020200 yellow flash
-f000020204 dagger tip
-f000020205 dagger tip
-f000020206 yellow flash + rocks
-f000020209 nothing
-f000020230 yellow spotlight
-f000020231 green spotlight
-f000020232 purple spotlight
-f000020233 bright star
-f000020250 nothing
-f000020303 small rock
-f000020305 falling dagger
-f000020359 yellow flashbang
-f000200001 small blackvoid to white light
-f000200005 bell with white light (sound)
-f000200006 bone with yellow light (sound)
-f000202002 wind guts
-f000202005 big white light with smaller ones
-f000202010 white light with tentacles
-f000203001 white flash
-f000203005 white magic tip with yellow light
-f000203008 red bang with sound
-f000252020 quick yellow bang
-f000252022 small yellow bang
-f000610090 nothing
-f000610100 big flame light
-f000610101 fast flame light (12sec)
-f000610102 yellow light 1sec
-f000610110 yellow light 3sec
-f000610111 yellow light 2sec
-f000610112 yellow light 1sec
-f000610115 big flame light
-f000610116 yellow halo with giant expanding light
-f000610117 faint yellow flash
-f000610121 yellow flame 4sec
-f000610122 nothing
-f000610150 yellow light (lamp?)
-f000610300 dirt cloud + rocks
-f000610301 big dirt cloud + rocks
-f000610404 nothing
-f000610502 white light with waves (lamp?)
-f000610516 yellow light 1sec
-f000610520 led circle tip with very white light
-f000610551 black leak with very white light
-f000610560 nothing
-f000610610 blue tip with white light HARD CRASH
-f000610611 blue halo with very whit light  - brain sucker projectile
-f000610612 blue halo with white bang (sound)
-f000610615 white bang - brain sucker projectile
-f000610616 moving white light
-f000610617 white bang
-f000610621 white bang HARD CRASH (fixed)
-f000610622 big white bang
-f000610625 big white bang
-f000610626 nothing
-f000610902 nothing
-f000611101 black circle with white light
-f000611102 small black circle with white flash
-f000611112 nothing
-f000611113 nothing
-f000611125 nothing
-f000611201 nothing
-f000611202 nothing
-f000611402 nothing
-f000611500 nothing
-f000611501 nothing
-f000611502 nothing
-f000611601 yellow intermittent light 3sec
-f000611602 crushing Sound
-f000611603 nothing
-f000612115 white blood splash
-f000612200 suck air and air splash
-f000612202 nothing
-f000612203 suck air and air splash
-f000612204 continuous wind circle
-f000612205 nothing
-f000612300 nothing
-f000612301 nothing
-f000612305 nothing
-f000612306 transparent air movement
-f000612500 nothing
-f000612501 nothing
-f000612600 nothing
-f000612601 nothing
-f000612710 air camera focus
-f000612720 nothing
-f000612721 nothing
-f000612725 nothing
-f000612726 nothing
-f000613005 nothing
-f000613010 big white bang
-f000613011 lightball center to right
-f000614000 nothing
-f000614001 nothing
-f000614004 nothing
-f000614005 nothing
-f000620203 big white flash
-f000620213 big white flash with motion
-f000620252 nothing
-f000620401 nothing
-f000620511 giant red hue
-f000620806 white flash with giant wind ball
-f000620900 motion blur pulse
-f000620901 strong motion blur pulse
-f000620910 rain of rocks
-f000620911 fast yellow flash
-f000620915 rocks burst
-f000620921 dust cloud with fast wind
-f000620955 nothing
-f000620961 gooblood burst prevalent
-f000620965 nothing
-f000620990 green giant flash with big gooblood burst
-f000621002 black circle with sound
-f000621006 violet circle with giant white bang and sound
-f000621012 blue closing circle with green flash
-f000621023 after 1 sec, black mist returning
-f000621100 blue circle with big white bang
-f000621101 blue closing circle with short green bang
-f000621202 nothing
-f000621208 white circles with big red hue
-f000621215 falling black mist
-f000621218 falling black mist
-f000621225 flame 3 sec
-f000621226 flame 12 sec
-f000621227 yellow short bang
-f000621228 big yellow bang
-f000621305 big blood burst
-f000621306 biggest blood burst
-f000621307 giant blood burst
-f000621308 ultra mega blood burst
-f000621513 nothing
-f000621590 nothign
-f000621605 fire bang
-f000621610 giant fire bang with wind
-f000621611 same
-f000621612 yellow light 6sec
-f000621621 yellow activation light
-f000621700 nothing
-f000621701 short air move
-f000621800 yellow blink light 4sec
-f000621801 nothing
-f000621802 nothing
-f000621804 electricity
-f000621805 thunderbolt + flashbang
-f000621806 blue electric hue
-f000621810 activate gooblood burst
-f000621811 nothing
-f000621814 activate gooblood burst
-f000623204 redish hue with white activation
-f000623206 white oval bang with rocks
-f000623207 yellow bang with rocks and wind
-f000623220 yellow light 12sec
-f000623222 yellow flash
-f000623223 yellow light 14sec
-f000623225 yellow flash
-f000623226 whitereddish light 12sec
-f000623229 whitenuke with rocks
-f000623232 white flash
-f000623245 white light 12sec
-f000623251 nothing
-f000623301 nothing
-f000624001 some rocks
-f000624003 some rocks with sound
-f000624005 some rocks x2
-f000624007 some rocks x2
-f000624011 giant rocks
-f000625000 white light 2sec
-f000625002 white flash
-f000625005 white light 2sec
-f000625006 faint white flash
-f000625007 white flashlight
-f000625008 white flash
-f000625010 big whitegreenish light
-f000625011 giant white flash
-f000625012 yellow activation
-f000625015 white activation with blue aura
-f000625020 blue circle magic with prevailing blue tip (CRASHES)
-f000625105 after 1 sec, big greenbang + white flash 3 sec
-f000625107 green bang + 4 sec white light and prevailing one on weapon
-f000625108 nothing
-f000625110 nothing
-f000625120 big translucent circle activation with sound and wind circle
-f000625121 small mist activation
-f000625130 giant blood splash
-f000625131 gooblood splash
-f000625132 big gooblood splash
-f000625190 giant greenflash and gooblood
-f000625191 same
-f000625201 small air moving mist
-f000625206 big air moving mist
-f000625300 various white flash
-f000625301 circling rock with big yellow light
-f000625302 yellow bang with rocks
-f000625304 nothing
-f000625305 nothing
-f000625306 green light 3sec
-f000625307 biig green light 3sec
-f000625310 big air circle opens, closes after 2sec
-f000625320 small rock shower
-f000625321 fallin lil rocks
-f000625600 yellow circle light-like (no source light)
-f000625601 giant flame-like light
-f000625705 small rocks
-f000625706 two burst of rocks
-f000625710 white light 2sec
-f000625715 same
-f000625716 white light to black void
-f000625720 giant greenish blind light (CRASH-fixed)
-f000625721 giant blueish blind light
-f000626200 short yellow flash
-f000626210 same
-f000626217 same with cannon sound
-f000626220 yellow intermittent light 3sec
-f000626221 same with sound
-f000626223 nothing
-f000627035 nothing
-f000627100 rocks to the front
-f000627102 yellow bangs + rocks (machinegun?)
-f000627105 activation + rocks
-f000627106 same
-f000627112 yellow flash
-f000627120 yellow increasing until rocks explosion
-f000627130 yellow flash
-f000627181 circle air activation + other one in top
-f000627200 rocks
-f000627205 same
-f000627206 yellow bang + airwave
-f000627208 more rocks
-f000627209 lil rocks
-f000627210 big rocks
-f000627220 big air focus
-f000627300 orange pulsing light
-f000627305 rocks shower x3
-f000627306 big rocks
-f000627307 yellow flash + rock shower x3
-f000627308 air flow + big rocks
-f000627390 green giant flashbang
-f000627402 nothing
-f000627407 nothing
-f000627410 nothing
-f000627411 nothing
-f000627415 nothing
-f000628104 nothing
-f000630000 yellow flamy light too bright
-f000630001 yellower flamy light 12sec
-f000630002 yellow flash
-f000630022 white flash
-f000630601 yellow light activation + blood stream
-f000630602 blood spater
-f000630606 5 sec blood stream to the back
-f000630607 yellow light activation
-f000630611 big yellow explotion + big blood explotion
-f000630612 big blood spater
-f000630615 blood spater
-f000630616 crash
-f000630621 crash
-f000630630 translucent wave
-f000630625 white flash + windgust + permanent debris back
-f000630640 blood spatter with 3 sec yellow light
-f000630645 big yellow light
-f000630646 red light with blood to the right
-f000630651 5 sec yellow light
-f000630652 normal blood spater
-f000630656 blood faucet
-f000630657 yellow activation light
-f000630665 normal blood spater
-f000630666 redish light
-f000631215 Wind !
-f000631300 big shoot
-f000631305 debris shower
-f000631309 waveforce and debris
-f000631310 translucent void
-f000631311 mega blood spater
-f000631315 giant blood spater
-f000631316 giant blood spater
-f000631317 blood spater
-f000631318 red faded circle
-f000631319 red circle expanding
-f000650002 blood wide spatter
-f000650008 warplike void
-f000650012 two fast shots
-f000650015 flying rocks
-f000650016 flying rocks
-f000728102 giant prevailing flame
-f000929032 small light like itemglow
-f000929131 yellow light prevails
-f000929132 greenish light prevails
-f000929133 redish light prevails
-f000929134 purple whitelighted torch
-f000929135 purple candle fades
-f000929136 greenflash stays on 2 secs
-f000929200 halo with flashbang
-f000929205 crashes
-f000929209 dirt cloud and debris
-f000929210 dirt cloud and debris
-f000929218 greenish centered lght
-f000929220 blackmist violet rays
-f000929226 explotion
-f000929227 crashes
-f000929236 electricity
-f000929260 explosion
-f000929261 mega explosion
-f000929306 green glow light
-f000932211 white flashbang light
-f000929131 lantern orange
-f001000200 FIRE FEET aka dust on feet when walking etc
-f190900400 n/a
-f000000187 in your face soul light when you kill something
-
-
-
-DLC DCX
-
-f000000142 bright green light, centered on ground, fade out 5 seconds
-f000000143 bright green light with air distortion, fade out 5 seconds
-f000000144 bright green light, centered on ground, fade out 5 seconds
-f000000145 bright green light with air distortion, fade out 5 seconds
-f000000266 ***CRASHES GAME***
-f000000267 yellow light on hit, centered on ground, fade out 3 seconds
-f000000268 n/a
-f000000269 n/a
-f000000270 ***CRASHES GAME***
-f000000271 ***CRASHES GAME***
-f000000272 ***CRASHES GAME***
-f000000273 ***CRASHES GAME***
-f000000274 ***CRASHES GAME*** transformed beast cutter heavy (r2) swing
-f000000275 ***CRASHES GAME***
-f000000276 ***CRASHES GAME***
-f000000277 ***CRASHES GAME***
-f000000278 ***CRASHES GAME***
-f000000279 ***CRASHES GAME***
-f000000280 n/a
-f000000290 circular white air distortion, sucked in to activation point
-f000000291 circular white air distortion, pushed out from activation point
-f000000303 circular white air distortion, pushed out from activation point
-f000000360 n/a
-f000000361 n/a
-f000000362 n/a
-f000000363 n/a
-f000000364 n/a
-f000000921 n/a
-f000000970 n/a
-f000003021 n/a
-f000003121 n/a
-f000003221 n/a
-f000003800 n/a
-f000003801 big red debris explodes up and out circular at activation point
-f000003802 big red debris explodes up and out circular at activation point
-f000003803 big red debris explodes up and out circular at activation point
-f000003804 big red debris explodes up and out circular at activation point
-f000003805 big red debris explodes up and out circular at activation point 
-f000003806 big red debris explodes up and out circular at activation point with air distortion
-f000003807 air distortion
-f000003808 big red debris explodes up and out circular at activation point
-f000003809 big red debris explodes up and out circular at activation point
-f000003810 big red debris explodes up and out circular at activation point
-f000003811 big red debris explodes up and out circular at activation point with air distortion
-.
-f000003818 n/a
-.
-f000003821 n/a
-.
-f000003825 n/a
-f000003826 n/a
-.
-f000003833 n/a
-.
-f000006600 3 or 4 alternating short orange streak lines going towards activation point
-f000006602 very fast flickery orange light with filmstrip sound, machine gun
-f000006603 very fast flickery orange light with filmstrip sound, machine gun
-f000006604 n/a
-f000006605 5 or 6 alternating orange streak lines going towards activation point
-f000006610 small orange flash on hit
-f000006615 small orange flash on hit
-f000006700 ***CRASHES GAME***
-f000006702 bright orange very quick flash centered on ground
-f000006703 bright orange very quick flash centered on ground
-f000006705 ***CRASHES GAME***
-f000006710 bright orange explosion with debris centered on ground
-f000006715 bright orange explosion with debris centered on ground
-f000006800 ***CRASHES GAME***
-f000006802 small orange flash with explosion sound at activation point
-f000006803 small orange flash with explosion sound at activation point
-f000006805 ***CRASHES GAME***
-f000006810 small orange flash with explosion sound at activation point
-f000006811 small orange flash with explosion sound at activation point
-f000006812 small orange flash with explosion sound at activation point
-f000006815 small orange flash with explosion sound at activation point
-f000006816 small orange flash with explosion sound at activation point
-f000006817 small orange flash with explosion sound at activation point
-f000007114 small red flash at activation point
-f000007115 n/a
-f000007116 blue splash of water in a line from activation point
-f000007117 green light on hit, fade out, 2 seconds, moonlight sword l1 transformation
-f000007118 dimmer green light on hit, fade out, 2 seconds
-f000007119 blood gush, sphere shape, with blood line shooting out of sphere
-f000007120 blood gush, sphere shape, with blood line shooting out of sphere
-f000007121 blood gush, sphere shape, delay 1 second and then line gushing out
-f000007122 blood gush in a line
-f000007123 small blood gush spherical
-f000007124 blood gush, sphere shape, with blood line shooting out of sphere
-f000007125 orange light, 6 quick flashes, drilling sound, 2 seconds duration
-f000007126 quick small orange flash
-f000007127 white light, fade out, 1 second
-f000007128 white light, fade out, 1 second
-f000007129 n/a
-f000007131 medium orange flash, centered on ground, fade out 1 second
-f000007205 n/a
-f000007503 medium green light flash centered on ground, fade out 1 second
-f000007504 medium green flash with slight distortion, fade out 1 second
-f000020020 n/a
-f000020061 1 sec delay then small circular ripple at activation X2
-f000020063 1 sec delay then small circular ripple at activation
-f000020098 big red centipede in half circle shape at activation
-f000020120 ***CRASHES GAME***
-f000020162 n/a
-f000020198 n/a
-f000020220 small yellow light on hit, 3 pulses each pulse smaller light
-f000020221 small yellow light on hit, 2 pulses each pulse smaller light
-f000020262 black circular ripple on hit with sound, fade out 2 seconds
-f000020320 orange light flash
-f000020398 n/a
-f000020420 n/a
-f000200050 small blue light, flashes bright after 1 second, back to small, fadeout
-f000200051 red light at activation point, fade out, 3 seconds
-f000200052 n/a
-f000201050 blue light at activation with little tiny blue sphere in front
-f000201051 n/a
-f000201052 large black circular air ripple effect
-f000202001 Projectiles from A call beyond
-f000202008 medium orange/red light, fade out, 5 seconds
-f000202050 blacksky eye projectile
-f000202051 bright red light at activation, fade out, 5 seconds
-f000202052 giant snake head comes out of black air ripple to chomp down
-f000203050 black cloud, small air ripple, debris, explosion
-f000203051 bright red flash, ghost sound
-f000204001 white-blue dot appears and fades out
-f000204050 n/a
-f000250030 green light, fade out, 2 seconds, moonlight sword l2,r2 first effect
-f000250035 green light with green shine in a line, fade out 2 seconds
-f000250040 small red hot item with heat wave distortion - boom hammer transform sfx
-f000250041 orange light, fade out, 2 seconds
-f000250042 small orange flickery light and then debris explosion, 2 seconds
-f000250050 small orange flickery light and then debris explosion 5 seconds
-f000250061 blood gushing out 2 seconds
-f000250070 medium flickery orange light, cranking sound continues after fade out for 3 seconds
-f000250080 medium orange flash *** SFX 1 for death when actual injury takes place (SFX 2 in patch.dcx)
-f000250081 grey blood (fish goo) circular fountain at activation
-f000250083 small circular windy effect, 5 seconds
-f000250100 white flash on hit
-f000250101 white blood (fish guts) explosion from activation point
-f000250102 n/a
-f000250103 n/a
-f000250110 n/a
-f000250111 n/a
-f000252010 n/a
-f000252011 oblong medium size red mist explosion
-f000252030 green light then ***CRASHES GAME***
-f000252031  moonlight sword r2 projectile light shadow
-f000252032   moonlight sword l2 projectile green light
-f000252033 moonlight sword l2 effect 2, green shockwave
-f000252034 ***CRASHES GAME***
-f000252035  moonlight sword running r2 projectile
-f000252040 yellow flash
-f000252041 orange flash
-f000252042 orange flash
-f000252043 orange flash
-f000252060 huge blood explosion, all 4 directions with a little distortion
-f000252062 huge blood explosion directions: up, left, right
-f000252070 small flickery orange light 1 second, also dentist drill sound 3 seconds
-f000252071 small flickery orange light and dentist drill sound, 3 seconds
-f000252080 fast large white mist explosion (***better for healing injection)
-f000252082 mist tornado with debris flies up, starts at head height
-f000252090 ***CRASHES GAME***
-f000252091 ***CRASHES GAME***
-f000252092 ***CRASHES GAME***
-f000252102 n/a
-f000252103 a few red dead fishes spurt out on hit
-f000252104 n/a
-f000252030 green flash
-f000253031 green flash
-f000253032 green flash
-f000253033 green flash
-f000253034 green flash
-f000253035 green flash
-f000253070 3 quick small orange light pulses
-f000253090 n/a
-f000253091 medium size oblong air distortion
-f000253102 n/a
-f000253103 n/a
-f000610310 n/a
-f000610311 yellow light fade out, 10 seconds
-f000610500 white light, fade out, 6 seconds
-f000610502 white light, fade out, 5 seconds
-f000610510 red build up 3 seconds, on last second red mist dissipates with light fading, mist repeats
-f000610550 dim white light fades in and out, 8 seconds
-f000625001 bright white light with upwards mist tornado, 3 seconds
-f000724070 n/a
-f000900261 bright orange explosion with large paper debris
-f001000601 red debris explodes up and out circular at activation point
-f001000603 big red debris explodes up and out circular at activation point
-f001000621 n/a
-f001101405 red messengers with puddle and misty red light
-f001101408 red messengers with puddle and intense red light
-f001101409 red messengers with puddle and intense white light
-f190000027 n/a
-
-m21.ffxbnd.dcx
-
-f000721010 blood spurt from "submit" ending cutscene neck chop
+f000924097 big centered yellow light  
+f000924098 bigger centered yellow light  
+f000924099 giantic centered yellow light laming noise  
+f000924101 weird bad flame  
+f000924103 giant inferno flame 
+f000924110 giant spotlight from above  
+f000924111 centered spotlight  
+f000924112 redish flame 
+f000929200 giant abductor light *trigger  
+f000929203 giant smoke bomb *trigger  
+f000929225 explosive bomb *trigger  
+f000929226 giant activating explotion *trigger  
+  
+m24_02  
+f000626000 lantern with led  
+f000625721 mega white flashbang  
+f000625715 white lights activation persevere  
+f000625706 rain of rocks  
+f000625705 waveforce with rocks  
+f000625700 crashes  
+  
+Patch DCX  
+f000000110 white light with negative void  
+f000000117 greenblue light with negative void and grey gooblood  
+f000000118 same but red  
+f000000120 greenblue light with small void on tip  
+f000000121 same but big void  
+f000000122 red light with small void on tip  
+f000000124 same but orange  
+f000000127 same but violet  
+f000000128 same but less quick  
+f000000129 same but slower  
+f000000136 violet light with void  
+f000000137 violet light with big void that closes  
+f000000138 same  
+f000000139 same with grey gooblood  
+f000000170 healing effect  
+f000000175 same but dimmer  
+f000000179 short yellow spot light  
+f000000186 nothing ?  
+f000000187 short white flash  
+f000000189 same  
+f000000190 same  
+f000000211 greenblue spotlight  
+f000000212 red spotlight  
+f000000213 purple spotlight  
+f000000214 violet spotlight  
+f000000215 same  
+f000000230 mist suck  
+f000000231 mist out  
+f000000300 circular mist  
+f000000320 yellow activation  
+f000000340 white bang with circular mist  
+f000000341 white bang with red decay  
+f000000342 same as 340  
+f000000456 same as 341  
+f000000459 white bang and mist  
+f000000520 nothing  
+f000000556 blood spatter with another later  
+f000000559 same  
+f000000602 nothing  
+f000000604 nothing  
+f000000605 nothing  
+f000000606 nothing  
+f000000607 red halo  
+f000000608 nothing  
+f000000614 nothing  
+f000000615 nothing  
+f000000616 nothing  
+f000000618 nothing  
+f000000624 nothing  
+f000000625 nothing  
+f000000806 nothing  
+f000000810 nothing   
+f000000820 wide blood burst  
+f000000821 huge blood burst  
+f000000830 blood burst  
+f000000855 nothing  
+f000000868 hard crash  
+f000000915 big yellow bang  
+f000000935 nothing  
+f000000940 nothing  
+f000003026 nothing  
+f000003031 nothing  
+f000003126 nothing  
+f000003131 nothing  
+f000003301 flying rocks  
+f000003302 circle air suck  
+f000003303 flying rocks  
+f000003326 nothing  
+f000003331 rocks flying with bang  
+f000003332 rocks flying  
+f000003426 nothing  
+f000003431 flying lil rocks  
+f000003432 flying lil rocks  
+f000003526 nothing  
+f000003531 nothing  
+f000003626 nothing  
+f000003631 nothing  
+f000006001 fast bang  
+f000006010 small bang  
+f000006011 small bang  
+f000006012 small bang  
+f000006013 small bang  
+f000006110 small bang  
+f000006111 small bang  
+f000006112 small bang  
+f000006113 small bang  
+f000006115 big bang  
+f000006116 small bang  
+f000006117 small bang  
+f000006118 small bang  
+f000006130 small bang  
+f000006131 small bang  
+f000006132 small bang  
+f000006133 small bang  
+f000006135 bang with faded shadow  
+f000006136 same  
+f000006137 same  
+f000006138 bang  
+f000006202 gunexplotion  
+f000006203 biggunexplotion  
+f000006210 long gunxplotion  
+f000006215 same  
+f000006310 gun bang with bullets  
+f000006311 same  
+f000006312 same  
+f000006313 same  
+f000006314 same  
+f000006315 same  
+f000006316 same  
+f000006317 same  
+f000006318 same  
+f000006400 nothing  
+f000006402 big yellow flame  
+f000006403 biggest yellow flame  
+f000006405 nothing  
+f000006500  
+f000006502 sound of wind ?  
+f000006503  
+f000006505   
+f000007101 white flash  
+f000007102 white flash  
+f000007104 black flash  
+f000007105 white flash  
+f000007109 3 small yellow flash  
+f000007113 yellow flash  
+f000007500 white flash short  
+f000008021 yellow light  
+f000008023 aquagreen flames  
+f000008024 veeeery yellow light  
+f000008025 white light  
+f000008026 green light  
+f000010618 nothing  
+f000010718 nothing  
+f000010810 nothing  
+f000010830 blood splash  
+f000010910 nothing  
+f000010930 blood splash  
+f000020004 dagger  
+f000020005 dagger  
+f000020105 hard crash  
+f000020200 yellow flash  
+f000020204 dagger tip  
+f000020205 dagger tip  
+f000020206 yellow flash + rocks  
+f000020209 nothing  
+f000020230 yellow spotlight  
+f000020231 green spotlight  
+f000020232 purple spotlight  
+f000020233 bright star  
+f000020250 nothing  
+f000020303 small rock  
+f000020305 falling dagger  
+f000020359 yellow flashbang  
+f000200001 small blackvoid to white light  
+f000200005 bell with white light (sound)  
+f000200006 bone with yellow light (sound)  
+f000202002 wind guts  
+f000202005 big white light with smaller ones  
+f000202010 white light with tentacles  
+f000203001 white flash  
+f000203005 white magic tip with yellow light  
+f000203008 red bang with sound  
+f000252020 quick yellow bang  
+f000252022 small yellow bang  
+f000610090 nothing  
+f000610100 big flame light  
+f000610101 fast flame light (12sec)  
+f000610102 yellow light 1sec  
+f000610110 yellow light 3sec  
+f000610111 yellow light 2sec  
+f000610112 yellow light 1sec  
+f000610115 big flame light  
+f000610116 yellow halo with giant expanding light  
+f000610117 faint yellow flash  
+f000610121 yellow flame 4sec  
+f000610122 nothing  
+f000610150 yellow light (lamp?)  
+f000610300 dirt cloud + rocks  
+f000610301 big dirt cloud + rocks  
+f000610404 nothing  
+f000610502 white light with waves (lamp?)  
+f000610516 yellow light 1sec  
+f000610520 led circle tip with very white light  
+f000610551 black leak with very white light  
+f000610560 nothing  
+f000610610 blue tip with white light HARD CRASH  
+f000610611 blue halo with very whit light  - brain sucker projectile  
+f000610612 blue halo with white bang (sound)  
+f000610615 white bang - brain sucker projectile  
+f000610616 moving white light  
+f000610617 white bang  
+f000610621 white bang HARD CRASH (fixed)  
+f000610622 big white bang  
+f000610625 big white bang  
+f000610626 nothing  
+f000610902 nothing  
+f000611101 black circle with white light  
+f000611102 small black circle with white flash  
+f000611112 nothing  
+f000611113 nothing  
+f000611125 nothing  
+f000611201 nothing  
+f000611202 nothing  
+f000611402 nothing  
+f000611500 nothing  
+f000611501 nothing  
+f000611502 nothing  
+f000611601 yellow intermittent light 3sec  
+f000611602 crushing Sound  
+f000611603 nothing  
+f000612115 white blood splash  
+f000612200 suck air and air splash  
+f000612202 nothing  
+f000612203 suck air and air splash  
+f000612204 continuous wind circle  
+f000612205 nothing  
+f000612300 nothing  
+f000612301 nothing  
+f000612305 nothing  
+f000612306 transparent air movement  
+f000612500 nothing  
+f000612501 nothing  
+f000612600 nothing  
+f000612601 nothing  
+f000612710 air camera focus  
+f000612720 nothing  
+f000612721 nothing  
+f000612725 nothing  
+f000612726 nothing  
+f000613005 nothing  
+f000613010 big white bang  
+f000613011 lightball center to right  
+f000614000 nothing  
+f000614001 nothing  
+f000614004 nothing  
+f000614005 nothing  
+f000620203 big white flash  
+f000620213 big white flash with motion  
+f000620252 nothing  
+f000620401 nothing  
+f000620511 giant red hue  
+f000620806 white flash with giant wind ball  
+f000620900 motion blur pulse  
+f000620901 strong motion blur pulse  
+f000620910 rain of rocks  
+f000620911 fast yellow flash  
+f000620915 rocks burst  
+f000620921 dust cloud with fast wind  
+f000620955 nothing  
+f000620961 gooblood burst prevalent  
+f000620965 nothing  
+f000620990 green giant flash with big gooblood burst  
+f000621002 black circle with sound  
+f000621006 violet circle with giant white bang and sound  
+f000621012 blue closing circle with green flash  
+f000621023 after 1 sec, black mist returning  
+f000621100 blue circle with big white bang  
+f000621101 blue closing circle with short green bang  
+f000621202 nothing  
+f000621208 white circles with big red hue  
+f000621215 falling black mist  
+f000621218 falling black mist  
+f000621225 flame 3 sec  
+f000621226 flame 12 sec  
+f000621227 yellow short bang  
+f000621228 big yellow bang  
+f000621305 big blood burst  
+f000621306 biggest blood burst  
+f000621307 giant blood burst  
+f000621308 ultra mega blood burst  
+f000621513 nothing  
+f000621590 nothign  
+f000621605 fire bang  
+f000621610 giant fire bang with wind  
+f000621611 same  
+f000621612 yellow light 6sec  
+f000621621 yellow activation light  
+f000621700 nothing  
+f000621701 short air move  
+f000621800 yellow blink light 4sec  
+f000621801 nothing  
+f000621802 nothing  
+f000621804 electricity  
+f000621805 thunderbolt + flashbang  
+f000621806 blue electric hue  
+f000621810 activate gooblood burst  
+f000621811 nothing  
+f000621814 activate gooblood burst  
+f000623204 redish hue with white activation  
+f000623206 white oval bang with rocks  
+f000623207 yellow bang with rocks and wind  
+f000623220 yellow light 12sec  
+f000623222 yellow flash  
+f000623223 yellow light 14sec  
+f000623225 yellow flash  
+f000623226 whitereddish light 12sec  
+f000623229 whitenuke with rocks  
+f000623232 white flash  
+f000623245 white light 12sec  
+f000623251 nothing  
+f000623301 nothing  
+f000624001 some rocks  
+f000624003 some rocks with sound 
+f000624005 some rocks x2  
+f000624007 some rocks x2  
+f000624011 giant rocks  
+f000625000 white light 2sec  
+f000625002 white flash  
+f000625005 white light 2sec  
+f000625006 faint white flash  
+f000625007 white flashlight  
+f000625008 white flash  
+f000625010 big whitegreenish light  
+f000625011 giant white flash  
+f000625012 yellow activation  
+f000625015 white activation with blue aura  
+f000625020 blue circle magic with prevailing blue tip (CRASHES)  
+f000625105 after 1 sec, big greenbang + white flash 3 sec  
+f000625107 green bang + 4 sec white light and prevailing one on weapon  
+f000625108 nothing  
+f000625110 nothing  
+f000625120 big translucent circle activation with sound and wind circle  
+f000625121 small mist activation  
+f000625130 giant blood splash  
+f000625131 gooblood splash  
+f000625132 big gooblood splash  
+f000625190 giant greenflash and gooblood  
+f000625191 same  
+f000625201 small air moving mist  
+f000625206 big air moving mist  
+f000625300 various white flash  
+f000625301 circling rock with big yellow light  
+f000625302 yellow bang with rocks  
+f000625304 nothing  
+f000625305 nothing  
+f000625306 green light 3sec  
+f000625307 biig green light 3sec  
+f000625310 big air circle opens, closes after 2sec  
+f000625320 small rock shower  
+f000625321 fallin lil rocks  
+f000625600 yellow circle light-like (no source light)  
+f000625601 giant flame-like light  
+f000625705 small rocks  
+f000625706 two burst of rocks  
+f000625710 white light 2sec  
+f000625715 same  
+f000625716 white light to black void  
+f000625720 giant greenish blind light (CRASH-fixed)  
+f000625721 giant blueish blind light  
+f000626200 short yellow flash  
+f000626210 same  
+f000626217 same with cannon sound  
+f000626220 yellow intermittent light 3sec  
+f000626221 same with sound  
+f000626223 nothing  
+f000627035 nothing  
+f000627100 rocks to the front  
+f000627102 yellow bangs + rocks (machinegun?)  
+f000627105 activation + rocks  
+f000627106 same  
+f000627112 yellow flash  
+f000627120 yellow increasing until rocks explosion  
+f000627130 yellow flash  
+f000627181 circle air activation + other one in top  
+f000627200 rocks  
+f000627205 same  
+f000627206 yellow bang + airwave  
+f000627208 more rocks  
+f000627209 lil rocks  
+f000627210 big rocks  
+f000627220 big air focus  
+f000627300 orange pulsing light  
+f000627305 rocks shower x3  
+f000627306 big rocks  
+f000627307 yellow flash + rock shower x3  
+f000627308 air flow + big rocks  
+f000627390 green giant flashbang  
+f000627402 nothing  
+f000627407 nothing  
+f000627410 nothing  
+f000627411 nothing  
+f000627415 nothing  
+f000628104 nothing  
+f000630000 yellow flamy light too bright  
+f000630001 yellower flamy light 12sec  
+f000630002 yellow flash  
+f000630022 white flash  
+f000630601 yellow light activation + blood stream  
+f000630602 blood spater  
+f000630606 5 sec blood stream to the back  
+f000630607 yellow light activation  
+f000630611 big yellow explotion + big blood explotion  
+f000630612 big blood spater  
+f000630615 blood spater  
+f000630616 crash  
+f000630621 crash  
+f000630630 translucent wave  
+f000630625 white flash + windgust + permanent debris back  
+f000630640 blood spatter with 3 sec yellow light  
+f000630645 big yellow light  
+f000630646 red light with blood to the right  
+f000630651 5 sec yellow light  
+f000630652 normal blood spater  
+f000630656 blood faucet  
+f000630657 yellow activation light  
+f000630665 normal blood spater  
+f000630666 redish light  
+f000631215 Wind !  
+f000631300 big shoot  
+f000631305 debris shower  
+f000631309 waveforce and debris  
+f000631310 translucent void  
+f000631311 mega blood spater  
+f000631315 giant blood spater  
+f000631316 giant blood spater  
+f000631317 blood spater  
+f000631318 red faded circle  
+f000631319 red circle expanding  
+f000650002 blood wide spatter  
+f000650008 warplike void  
+f000650012 two fast shots  
+f000650015 flying rocks  
+f000650016 flying rocks  
+f000728102 giant prevailing flame  
+f000929032 small light like itemglow  
+f000929131 yellow light prevails  
+f000929132 greenish light prevails  
+f000929133 redish light prevails  
+f000929134 purple whitelighted torch  
+f000929135 purple candle fades  
+f000929136 greenflash stays on 2 secs  
+f000929200 halo with flashbang  
+f000929205 crashes  
+f000929209 dirt cloud and debris  
+f000929210 dirt cloud and debris  
+f000929218 greenish centered lght  
+f000929220 blackmist violet rays  
+f000929226 explotion  
+f000929227 crashes  
+f000929236 electricity  
+f000929260 explosion  
+f000929261 mega explosion  
+f000929306 green glow light  
+f000932211 white flashbang light  
+f000929131 lantern orange  
+f001000200 FIRE FEET aka dust on feet when walking etc  
+f190900400 n/a  
+f000000187 in your face soul light when you kill something  
+  
+  
+  
+DLC DCX  
+  
+f000000142 bright green light, centered on ground, fade out 5 seconds  
+f000000143 bright green light with air distortion, fade out 5 seconds  
+f000000144 bright green light, centered on ground, fade out 5 seconds  
+f000000145 bright green light with air distortion, fade out 5 seconds  
+f000000266 ***CRASHES GAME***  
+f000000267 yellow light on hit, centered on ground, fade out 3 seconds  
+f000000268 n/a  
+f000000269 n/a  
+f000000270 ***CRASHES GAME***  
+f000000271 ***CRASHES GAME***  
+f000000272 ***CRASHES GAME***  
+f000000273 ***CRASHES GAME***  
+f000000274 ***CRASHES GAME*** transformed beast cutter heavy (r2) swing  
+f000000275 ***CRASHES GAME***  
+f000000276 ***CRASHES GAME***  
+f000000277 ***CRASHES GAME***  
+f000000278 ***CRASHES GAME***  
+f000000279 ***CRASHES GAME***  
+f000000280 n/a  
+f000000290 circular white air distortion, sucked in to activation point  
+f000000291 circular white air distortion, pushed out from activation point  
+f000000303 circular white air distortion, pushed out from activation point  
+f000000360 n/a  
+f000000361 n/a  
+f000000362 n/a  
+f000000363 n/a  
+f000000364 n/a  
+f000000921 n/a  
+f000000970 n/a  
+f000003021 n/a  
+f000003121 n/a  
+f000003221 n/a  
+f000003800 n/a  
+f000003801 big red debris explodes up and out circular at activation point  
+f000003802 big red debris explodes up and out circular at activation point  
+f000003803 big red debris explodes up and out circular at activation point  
+f000003804 big red debris explodes up and out circular at activation point  
+f000003805 big red debris explodes up and out circular at activation point   
+f000003806 big red debris explodes up and out circular at activation point with air distortion  
+f000003807 air distortion  
+f000003808 big red debris explodes up and out circular at activation point  
+f000003809 big red debris explodes up and out circular at activation point  
+f000003810 big red debris explodes up and out circular at activation point  
+f000003811 big red debris explodes up and out circular at activation point with air distortion  
+.  
+f000003818 n/a  
+.  
+f000003821 n/a  
+.  
+f000003825 n/a  
+f000003826 n/a  
+.  
+f000003833 n/a  
+.  
+f000006600 3 or 4 alternating short orange streak lines going towards activation point  
+f000006602 very fast flickery orange light with filmstrip sound, machine gun  
+f000006603 very fast flickery orange light with filmstrip sound, machine gun  
+f000006604 n/a  
+f000006605 5 or 6 alternating orange streak lines going towards activation point  
+f000006610 small orange flash on hit  
+f000006615 small orange flash on hit  
+f000006700 ***CRASHES GAME***  
+f000006702 bright orange very quick flash centered on ground  
+f000006703 bright orange very quick flash centered on ground  
+f000006705 ***CRASHES GAME***  
+f000006710 bright orange explosion with debris centered on ground  
+f000006715 bright orange explosion with debris centered on ground  
+f000006800 ***CRASHES GAME***  
+f000006802 small orange flash with explosion sound at activation point  
+f000006803 small orange flash with explosion sound at activation point  
+f000006805 ***CRASHES GAME***  
+f000006810 small orange flash with explosion sound at activation point  
+f000006811 small orange flash with explosion sound at activation point  
+f000006812 small orange flash with explosion sound at activation point  
+f000006815 small orange flash with explosion sound at activation point  
+f000006816 small orange flash with explosion sound at activation point  
+f000006817 small orange flash with explosion sound at activation point  
+f000007114 small red flash at activation point  
+f000007115 n/a  
+f000007116 blue splash of water in a line from activation point  
+f000007117 green light on hit, fade out, 2 seconds, moonlight sword l1 transformation  
+f000007118 dimmer green light on hit, fade out, 2 seconds  
+f000007119 blood gush, sphere shape, with blood line shooting out of sphere  
+f000007120 blood gush, sphere shape, with blood line shooting out of sphere  
+f000007121 blood gush, sphere shape, delay 1 second and then line gushing out  
+f000007122 blood gush in a line  
+f000007123 small blood gush spherical  
+f000007124 blood gush, sphere shape, with blood line shooting out of sphere  
+f000007125 orange light, 6 quick flashes, drilling sound, 2 seconds duration  
+f000007126 quick small orange flash  
+f000007127 white light, fade out, 1 second  
+f000007128 white light, fade out, 1 second  
+f000007129 n/a  
+f000007131 medium orange flash, centered on ground, fade out 1 second  
+f000007205 n/a  
+f000007503 medium green light flash centered on ground, fade out 1 second  
+f000007504 medium green flash with slight distortion, fade out 1 second  
+f000020020 n/a  
+f000020061 1 sec delay then small circular ripple at activation X2  
+f000020063 1 sec delay then small circular ripple at activation  
+f000020098 big red centipede in half circle shape at activation  
+f000020120 ***CRASHES GAME***  
+f000020162 n/a  
+f000020198 n/a  
+f000020220 small yellow light on hit, 3 pulses each pulse smaller light  
+f000020221 small yellow light on hit, 2 pulses each pulse smaller light  
+f000020262 black circular ripple on hit with sound, fade out 2 seconds  
+f000020320 orange light flash  
+f000020398 n/a  
+f000020420 n/a  
+f000200050 small blue light, flashes bright after 1 second, back to small, fadeout  
+f000200051 red light at activation point, fade out, 3 seconds  
+f000200052 n/a  
+f000201050 blue light at activation with little tiny blue sphere in front  
+f000201051 n/a  
+f000201052 large black circular air ripple effect  
+f000202001 Projectiles from A call beyond  
+f000202008 medium orange/red light, fade out, 5 seconds  
+f000202050 blacksky eye projectile  
+f000202051 bright red light at activation, fade out, 5 seconds  
+f000202052 giant snake head comes out of black air ripple to chomp down  
+f000203050 black cloud, small air ripple, debris, explosion  
+f000203051 bright red flash, ghost sound  
+f000204001 white-blue dot appears and fades out  
+f000204050 n/a  
+f000250030 green light, fade out, 2 seconds, moonlight sword l2,r2 first effect  
+f000250035 green light with green shine in a line, fade out 2 seconds  
+f000250040 small red hot item with heat wave distortion - boom hammer transform sfx  
+f000250041 orange light, fade out, 2 seconds  
+f000250042 small orange flickery light and then debris explosion, 2 seconds  
+f000250050 small orange flickery light and then debris explosion 5 seconds  
+f000250061 blood gushing out 2 seconds  
+f000250070 medium flickery orange light, cranking sound continues after fade out for 3 seconds  
+f000250080 medium orange flash *** SFX 1 for death when actual injury takes place (SFX 2 in patch.dcx)  
+f000250081 grey blood (fish goo) circular fountain at activation  
+f000250083 small circular windy effect, 5 seconds  
+f000250100 white flash on hit  
+f000250101 white blood (fish guts) explosion from activation point  
+f000250102 n/a  
+f000250103 n/a  
+f000250110 n/a  
+f000250111 n/a  
+f000252010 n/a  
+f000252011 oblong medium size red mist explosion  
+f000252030 green light then ***CRASHES GAME***  
+f000252031  moonlight sword r2 projectile light shadow  
+f000252032   moonlight sword l2 projectile green light  
+f000252033 moonlight sword l2 effect 2, green shockwave  
+f000252034 ***CRASHES GAME***  
+f000252035  moonlight sword running r2 projectile  
+f000252040 yellow flash  
+f000252041 orange flash  
+f000252042 orange flash  
+f000252043 orange flash  
+f000252060 huge blood explosion, all 4 directions with a little distortion  
+f000252062 huge blood explosion directions: up, left, right  
+f000252070 small flickery orange light 1 second, also dentist drill sound 3 seconds  
+f000252071 small flickery orange light and dentist drill sound, 3 seconds  
+f000252080 fast large white mist explosion (***better for healing injection)  
+f000252082 mist tornado with debris flies up, starts at head height  
+f000252090 ***CRASHES GAME***  
+f000252091 ***CRASHES GAME***  
+f000252092 ***CRASHES GAME***  
+f000252102 n/a  
+f000252103 a few red dead fishes spurt out on hit  
+f000252104 n/a  
+f000252030 green flash  
+f000253031 green flash  
+f000253032 green flash  
+f000253033 green flash  
+f000253034 green flash  
+f000253035 green flash  
+f000253070 3 quick small orange light pulses  
+f000253090 n/a  
+f000253091 medium size oblong air distortion  
+f000253102 n/a  
+f000253103 n/a  
+f000610310 n/a  
+f000610311 yellow light fade out, 10 seconds  
+f000610500 white light, fade out, 6 seconds  
+f000610502 white light, fade out, 5 seconds  
+f000610510 red build up 3 seconds, on last second red mist dissipates with light fading, mist repeats  
+f000610550 dim white light fades in and out, 8 seconds  
+f000625001 bright white light with upwards mist tornado, 3 seconds  
+f000724070 n/a  
+f000900261 bright orange explosion with large paper debris  
+f001000601 red debris explodes up and out circular at activation point  
+f001000603 big red debris explodes up and out circular at activation point  
+f001000621 n/a  
+f001101405 red messengers with puddle and misty red light  
+f001101408 red messengers with puddle and intense red light  
+f001101409 red messengers with puddle and intense white light  
+f190000027 n/a  
+  
+m21.ffxbnd.dcx  
+  
+f000721010 blood spurt from "submit" ending cutscene neck chop  
 f000921216 hunters dream yellow light 1 (high above doll)
 f000921100 hunters dream yellow light 2 (doll lantern)
 f000921217 hunters dream Yellow light 3 (general doll area)
