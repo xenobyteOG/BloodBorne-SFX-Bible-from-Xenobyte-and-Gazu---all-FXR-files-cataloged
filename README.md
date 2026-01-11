@@ -1039,762 +1039,746 @@ f190000027 n/a
 m21.ffxbnd.dcx  
   
 f000721010 blood spurt from "submit" ending cutscene neck chop  
-f000921216 hunters dream yellow light 1 (high above doll)
-f000921100 hunters dream yellow light 2 (doll lantern)
-f000921217 hunters dream Yellow light 3 (general doll area)
-f001101402 hunters dream grave stone second light
-f001101403 hunters dream chalice dungeon grave stone light
-
-m_24_00 dcx file
-f000627030 white glow pulsing
-f000627000 yarnham cathedral priest lantern guys lantern light
-f000627010 yarnham cathedral priest lantern guys light on projectile launch
-f000627011 yarnham cathedral priest lantern guys light under actual projectile
-
-m25
-
-f000725011 after lorarious cutscene swirling wind part 1
-f000725012 after logarious cutscene wind part 2 (crashy)
-
-m28
-
-f000610520 simple while ball projectile
-
-m29a
-
-f10000080 medium lava that spurts out sideways
-
-m29b
-
-f000610000 n/a
-f000610050 n/a
-f000610051 n/a
-f000610100 dim orange light
-f000610101 orange flash then dim orange, fadeout, 3 seconds
-f000610102 quick fade in fade out orange flash
-f000610110 dim orange light, fadeout, 2 seconds
-f000610111 orange flash then dim orange light, fadeout, 5 seconds
-f000610112 quick fade in fade out orange flash
-f000610150 dim yellow light, fade out, 5 seconds
-f000610221 air distortion
-f000610404 n/a
-f000610450 *** CRASHES GAME ***
-f000610502 
-f000610505 delay and then flash and then tiny ball with two expanding fading circles
-f000610510 delay and then orange flash and then large expanding fading mist sphere
-f000610515 orange light quick pulsing
-f000610601 n/a
-f000610611 blue small expanding fading circle and then white light, fadeout, 5 seconds
-f000610612 contracting transparent blue sphere
-f000		white light the spins like a siren
-f000610617 white light air distortion
-f000610621 green light, thunder sound, light balls exploding up, good for magix
-f000610622 bright white green light
-f000610625 very bright white light, thunder sound
-f000610900 n/a
-f000610903 n/a
-f000611101 expanding black transparent sphere, cyclone shaped air distortion
-f000611105 white light on weapons, fadeout, 5 seconds
-f000611125 n/a
-f000611201 transparent splurge of green goo
-f000611400 n/a
-f000612200 n/a
-f000612203 n/a
-f000612500 n/a
-f000612710 slight air distortion
-f000612900 n/a 
-f000612901 two little red balls
-f000613005 n/a
-f000620203 white light, fadeout, 3 seconds
-f000620213 white light then rays of spider webs suck in to activation
-f000620400 n/a
-f000620401 n/a
-f000620410 n/a
-f000620805 dim white light, fadeout, 2 seconds
-f000620806 white light and expanding mist cloud
-f000621001 white light with air distortion, 5 seconds, no fadeout
-f000621002 expanding black circle, twice
-f000621006 big purple and black expanding cloud with air distortion
-f000621011 expanding blue transparent sphere on activation, white light, fadeout 5 seconds
-f000621012 contracting white transparent circle to white light
-f000621016 n/a
-f000621100 expanding blue transparent sphere on activation, white light
-f000621101 expanding blue transparent sphere on activation
-f000621104 red-white light, fadeout, 3 seconds
-f000621201 small intense orange light, flashes 3x, fadeout
-f000621208 expanding red mist circle
-f000621220 orange flash, gun sound
-f000621225 dim orange light
-f000621226 flickering orange light, fadeout, 3 seconds
-f000621227 quick orange light
-f000621228 bright orange light
-f000621230 n/a
-f000621232 n/a
-f000621233 flickering orange light
-f000621235 orange light, fadeout, 5 seconds
-f000621605 intense orange light
-f000621615 orange light and air distortion
-f000621620 small intense orange light
-f000621621 small intense orange light
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-f000
-
-
-
-
-m29c
-
-f000620900
-f000620901
-f000620911
-f000620915
-f000620920
-f000620921
-f000620990
-f000631310
-f000631311
-f000631318
-f000631319
-f000650104 extremely bright orange light, fadeout, 5 seconds
-f000650109
-f000650110
-f000650111
-f000650113
-f000650115
-f000650116
-f000650119
-f000650120
-f000650125
-f000650127
-f000650129 
-f000650139 
-f000650163 bright orange light
-f000650181
-f000650188
-f000650195 huge fire lava explosion
-f000650402 lightning activity around activation point
-f000650403 super lightning activity around activation point
-f000650412 3 short orange flashes and then small debris for 5 seconds
-f000650413 medium debris explodes on activation
-f000650414 big medium debris explosion on activation
-f000650415 lightning strike comes down, small white tornado then debris
-f000650416 big lighting surrounds activation then big white tornado and debris explosion
-f000650417 lightning strikes surrounding activation and then white tornado sucks in to point
-f000650418 small air distortion
-f000650425 quick lightning and then white tornado and debris
-f000650426 big lighting surrounds activation then big white tornado explodes out and debris 
-f000650435 lightning strike comes down, small white tornado then debris
-f000650436 white tornado explodes out then lightning strikes and debris explodes
-f000650450 big red blood explosion
-f000650455 n/a
-f000650456 little blood red circle expands from activation
-f000650800 3 short orange flashes and then small debris for 5 seconds
-f000650815 quick lightning strikes come down and debris explosion
-f000650816 3 quick lightning strikes then debris explosion
-f000650819 lightning strikes from ground at feet of activation point, 5 seconds
-f000650821 lightning surrounds player after activation, 3 seconds
-f000650822 big lightning storm then explosion
-f000650823 big lightning storm surrounding activation
-f000650824 big lightning storm surrounding activation
-f000650825 super lightning in columns surrounding activation, 5 seconds
-f000650827 big transparent blue wave explodes outward and debris
-f000650828 big transparent blue wave explodes outward and debris
-f000650829 big transparent blue wave explodes outward and a little debris
-f000650831 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds
-f000650832 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds
-f000650833 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds
-f000650834 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds
-f000650835 big lighting surrounds activation then big white tornado explodes out and debris
-f000650836 big lighting surrounds activation then big white tornado explodes out and debris
-f000650845 lighting strike pulses
-f000650850 faster lightning strike pulses
-f000650855 lightning strikes around activation
-f000650857 lightning strikes up and left of activation
-f000650860 lightning strike surrounds, small white tornado then debris
-f000650861 lightning strike surrounds, small white tornado then debris
-f000650862 lightning strike surrounds, small white tornado then debris
-f000650863 lightning strikes from ground at feet of activation point, 5 seconds
-f000650870 big debris
-f000650871 huge debris explosion
-f000650872 large debris
-f000650895 green light and huge debris explosion
-f000650905 small flash and small debris
-f000650910 a little debris
-f000650915 n/a
-f000650916
-f000650920 debris and blood explosion
-f000650925
-f000650930 a little blood
-f000650936 blood and debris
-f000650940 small orange light
-f000650941
-f000650942 
-f000650944 
-f000651000 big air distortion
-f000651001 big air distortion
-f000651012 transparent meteor
-f000651013 white flash and debris explosion
-f000651014 big transparent white meteor
-f000651016 white light with distortion
-f000651017 white light and distortion in the sky
-f000651217 small white light with debris explosion
-f000651218 bright white light
-f000651225 3 short orange light bursts
-f000651230 small amount of debris
-f000651232 small distortion and debris
-f000651233 wind blows up and debris
-f000651235 big stellar stars sucked into activation
-f000651236 white light and expanding white mist
-f000651237 blue wind circles, above head, 5 seconds
-f000651241 big blood explosion
-f000651245 n/a
-f000651246 delay and then small red blood circle expands and disappears
-f000655100 white light and wind mist explodes with feathers above activation
-f000655190 a green light and feathers explodes from activation
-
-m29d
-
-f000610115 small steady orange light
-f000610116 bright orange light, fadeout, 1 second
-f000610117 small red light
-f000611302 small quick yellow light
-f000611600 n/a
-f000611601 small orange light 4 random pulses
-f000612100 n/a
-f000612300 n/a
-f000612306 n/a
-f000630000 fast pulsing bright orange light with heat waves
-f000630001 smaller, oranger fast pulsing light with heat wave, 8 seconds
-f000630002 small quick orange light
-f000630010 expanding fading white circle
-f000630016 n/a
-f000630017 n/a
-f000630021 bright white light
-f000630022 quick white light
-f000630102 red little bottle with yellow light and heat waves
-f000630110 small air distortion
-f000630115 n/a
-f000630311 small air distortion and tiny debris
-f000630405 bright orange-white light
-f000630410 small orange flash
-f000630412 n/a
-f000630415 small debris explosion
-f000631130 white light
-f000631200 n/a
-f000829000 fog ball
-f000829001 fog ball
-f000929020 n/a
-f000929021 n/a
-f000929045 n/a
-f000929046 n/a
-f000929050 sparse debris
-f000929080 small pulsing orange light
-f000929130 spotlight on enemy weapon on hit
-f000929140 n/a
-f000929141 n/a
-f000929142 n/a
-f000929160 pulsing green-blue light
-f000929209 smoke cloud, dissipates 2 seconds
-f000929210 smoke cloud, dissipates 2 seconds
-f000929213 blue light and black circle with stars, 3 seconds
-f000929215 blue light and black circle with stars, 3 seconds
-f000929217 dim blue light with black cloud and air distortion
-f000929218 blue light with air distortion
-f000929220 weird lens flare
-f000929225 orange flash
-f000929226 explosion and debris
-f000929227 white light, air distortion, and black mist
-f000929236 sky lightning
-f000929237 sky lightning 
-f000929238 sky lightning
-f000929245 n/a
-f000929260 orange flash
-f000929300 small yellow-green light
-f000929302 n/a
-f000929304 n/a
-f000929305 n/a
-
-m32.ffxbnd.dcx
-
-f000000081 real fog that doesn't fill up the whole map
-f000007661 air distortion
-f000007761 big blood explosion to the left of activation
-f000610601 n/a
-f000610611 yellow light that switches to white light, fade out, 5 seconds
-f000610612 blue-white light with contracting blue transparent circle of mist
-f000610616 siren-like white light
-f000610617 white light 
-f000610621 green light
-f000610622 bright green-white light 
-f000610625 bright white light
-f000611101 expanding transparent black sphere, air distortion
-f000611105 white spotlight up and left of activation point
-f000611125 n/a
-f000621100 expanding white sphere
-f000621101 contracting white sphere
-f000621104 bright small red light
-f000625300 white light two flashes then fadeout
-f000625301 big yellow rock with yellow light, fadeout, 10 seconds
-f000625302 flash with debris explosion
-f000625307 white smoke and particles, 5 seconds
-f000625310 big blue stars and wind sucked in to activation point
-f000625320 small debris explosion
-f000625321 n/a
-f000627300 orange flickering light
-f000627306 small amount of debris
-f000627307 small rock debris explodes out
-f000627308 debris explosion
-f000627402 n/a
-f000627407 n/a
-f000627411 n/a
-f000631310 air distortion
-f000651000 air distortion
-f000651001 air distortion
-f000651012 rotating transparent meteor, fade out, 5 seconds
-f000651013 white flash and small amount of debris
-f000651014 large transparent rock, fade, 1 second
-f000651016 white light, fadeout, 1 second
-f000651017 white flash in the air
-f000932000 small orange light with heatwaves 
-f000932003 n/a
-f000932007 n/a
-f000932200 big black cloud with purple light with round air distortion
-f000932201 white light, air distortion
-f000932210 big white screen air distortion, 3 seconds
-f000932211 greenish dispersed light slight flicker
-f000932220 bright white flashing light, good for items
-f190000061 spurt of grey blood (fish goo)
-
-m33.ffxbnd.dcx
-
-f000003033 n/a
-f000003133 n/a
-f000003333 n/a
-f000003433 n/a
-f000003533 n/a
-f000003633 n/a
-f000620805 white light, fade out, 4 seconds
-f000620806 quick bright white light
-f000621800 medium orange light, 3 double pulses, fade out, 5 seconds
-f000621804 lighting strike spherical from activation point
-f000621805 bright white flickering light with lightning strikes, 1 second
-f000621810 grey blood (fish goo) big spurt opposite direction of hit
-f000621806 quick white flash that turns blue and pulses out (for lightning hit)
-f000621814 smaller, slower gray blood spurt with slight air distortion, same direction as hit
-f000621850 orange light, fade out, 5 seconds
-f000624001 a few pieces of random sized debris flies out
-f000624003 pieces of random sized debris flies out
-f000624007 tiny rocks fly up from ground on activation
-f000624005 debris flies out on activation, 2x
-f000624206 debris flies out on activation, 2x
-f000624011 super huge debris flies out on activation
-f000624015 shiny dark red blood spurts out on activation
-f000625502 n/a
-f000627105 small debris flies out on activation
-f000627106 n/a
-f000627200 tiny debris flies out on activation
-f000625217 white spotlight, followed by yellow light and then debris explosion
-f000651218 super bright light, fade out, 5 seconds
-f000651225 three extremely quick orange pulses
-f000651230 wide sparse debris explosion on activation
-f000651232 wide sparse debris explosion on activation
-f000651233 sparse debris explosion away from activation
-f000651235 large white distorted light rays surrounding activation
-f000651236 bright orange light, fade out, 2 seconds
-f000651237 large blue space and stars circular wind gusts sucked into the left of activation, 5 seconds
-f000651241 big blood explosion at activation point
-f000651245 n/a
-f000651246 n/a
-f000651350 bright yellow light with distortion, fade out, 5 seconds
-f000733000 n/a
-f000926023 short delay and then two spurts of dark red reflect blood
-f000933009 crow sound
-f000933050 n/a
-f001000533 n/a
-f001000633 n/a
-
-m34.ffxbnd.dcx
-
-f000003035 n/a
-f000003041 n/a
-f000003135 n/a
-f000003141 n/a
-f000003235 n/a
-f000003241 n/a
-f000003335 n/a
-f000003341 n/a
-f000003435 n/a
-f000003441 n/a
-f000003535 n/a
-f000003541 n/a
-f000003635 n/a
-f000003641 n/a
-f000003835 n/a
-f000003841 n/a
-f000610900 n/a
-f000610901 n/a
-f000610903 two little transparent red nubbins appear then ***CRASHES GAME***
-f000612900 n/a
-f000612901 two little transparent red nubbins appear
-f000612910 n/a
-f000620900 ***CRASHES GAME***
-f000620901 big circular air distortion
-f000620910 small rock debris flies out, 5 seconds
-f000620911 small orange flash, 3 very quick pulses
-f000620915 big debris flies out then settles down to ground, 3 seconds
-f000620916 n/a
-f000620920 n/a
-f000620921 burst of real smoke expands on hit
-f000620941 1 second delay and then small gray blood (fish goo) spurt
-f000620942 n/a
-f000620950 n/a
-f000620951 gray blood (fish goo) spurt, repeat 3x
-f000620952 n/a
-f000620953 gray blood (fish goo) spurt, repeat 2x
-f000620954 n/a
-f000620960 n/a
-f000620961 big gray blood (fish goo) spurt, repeat 3x
-f000620964 n/a
-f000620980 medium debris explodes up from ground, 3 seconds
-f000620981 big debris explodes up from ground, 3 seconds
-f000620990 bright green-white light flash followed by gray blood (fish goo) explosion
-f000621001 bright orange-white light, no fade out, 3 seconds
-f000621005 orange-white light, fade out, 4 seconds
-f000621010 bright green-white light, no fade out, 3 seconds
-f000621011 bright green spotlight with white lens flare, fade out, 5 seconds
-f000621015 n/a
-f000621016 dark red reflecty blood spurt in direction of hit
-f000621020 orange light, fade out, 5 seconds
-f000621024 n/a
-f000621311 n/a
-f000621312 n/a
-f000625501 n/a
-f000625502 n/a
-f000625505 n/a
-f000627110 quick small orange flash
-f000627118 n/a
-f000627121 n/a
-f000640000 small quick orange flash, blood sound
-f000640005 small quick orange flash, blood sound
-f000640016 small orange circle light with red hot object, no light source
-f000640020 air distortion to the left of activation
-f000640021 blood explosion to the left of player
-f000640070 small air distortion
-f000640081 ***CRASHES GAME***
-f000640085 two red streaks but ***CRASHES GAME***
-f000640086 ***CRASHES GAME***
-f000640092 n/a
-f000640093 n/a
-f000640094 orange light on player, fade out, 2 seconds
-f000640100 small intense purple blob and light
-f000640105 small air distortion
-f000640110 quick orange flash on hit
-f000640112 bright yellow light, fade out, 2 seconds
-f000640115 air distortion with small red light, fade out, 2 seconds
-f000640116 air distortion with medium red-white light, fade out, 2 seconds
-f000640117 air distortion with medium red-white light, fade out, 2 seconds, followed by circular air distortion
-f000640118 small air distortion
-f000640131 purple mist blast followed by another purple fading expanding mist air ripple
-f000640132 medium white light, fade out, 2 seconds
-f000645001 large intense orange light, fade out, 5 seconds
-f000645005 n/a
-f000645006 large orange light, fade out 3 seconds
-f000645010 orange light centered on player, fade out, 2 seconds
-f000645011 orange light, fade out, 2 seconds
-f000645012 medium intense orange light, flickering, fade out, 5 seconds
-f000645020 small intense orange light centered on player but far away
-f000645021 medium circular orange mist, fade out, 5 seconds
-f000645022 n/a
-f000645025
-f000645030 air distortion, 3 seconds
-f000645035 bright white light followed by big orange blood goo explosion, 3 seconds
-f000645025 intense large orange light, fade out, 5 seconds
-f000640111 n/a
-f000640130 white light, fade out, 3 seconds
-f000645102 n/a
-f000645104 bright green-white light, flickering, fade out, 5 seconds
-f000645111 very small orange light, 3 very quick pulses and two spurts of small debris
-f000645112 very small orange light, 3 very quick pulses and two spurts of small debris
-f000645114 n/a
-f000645115 ***CRASHES GAME***
-f000645118 green light above and behind activation
-f000645119 some sort of transparent light but ***CRASHES GAME***
-f000645120 bright green-white light with shaft of light towards activation point
-f000645121 ***CRASHES GAME** but probably the same as above with orange-white light
-f000645122 bright green-white light
-f000645127 bright green-white light with shaft of light towards activation point
-f000645130 bright green-white light, air distortion, debris explosion
-f000645135 very bright green-white light, fade out, 6 seconds
-f000645136 smoke-like flowing off activation, 1 second
-f000645144 very small orange light, 3 very quick pulses and two spurts of small debris
-f000645151 bright green-white light
-f000645152 very bright green-white light, 3 quick pulses
-f000645160 n/a
-f000645161 n/a
-f000645190 small air distortion
-f000734200 n/a
-f000734204 n/a
-f000734209
-f000734300 
-f000734302
-f000734303 green-white light that faces enemy front, fade out, 3 seconds
-f000734304 green-white light with rays coming down to activation point, fade out, 2 seconds
-f000734306 green-white light with vertical black circular distortion, fade out, 3 seconds
-f000734308 wide black light ray with glowing edge coming from sky to activation point, 3 seconds
-f000834000 green-white light behind activation point, fade out, 3 seconds
-f000834002 green-white light behind activation point, fade out, 8 seconds
-f000934100 orange light, fade out, 8 seconds
-f000934200 small air distortion followed by medium circular debris ejection
-f000934212 small orange flash
-f001000335 n/a
-f001000341 n/a
-f001000535 n/a
-f001000541 n/a
-f001000635 n/a
-f001000641 n/a
-f001451027 n/a
-f001451127 n/a
-f001451135 n/a
-f001451201 small distortion followed by circular large debris ejection
-f001451227 n/a
-f001451235 small distortion followed by circular large debris ejection
-f001451301 small distortion followed by circular large debris ejection
-f001451335 small distortion followed by circular large debris ejection
-f001451435 small distortion followed by circular large debris ejection
-f001451535 n/a
-f001451735 n/a
-f001451835 circular large debris ejection
-f001451935 medium debris eruption from ground to right of activation point
-f190780000 gray blood (fish goo) spurt in direction of hit
-f190900400 orange blood (maybe lava) big spurt in direction of hit
-
-
-m35_ffxbnd.dcx
-
-f000000370 red light with air distortion, fade out, 2 seconds
-f000000317 red light, fade out, 5 seconds
-f000000372 red light with air distortion, fade out, 2 seconds
-f000003034 n/a
-f000611000 n/a
-f000626200 quick yellow-white flash explosion
-f000626201 n/a
-f000626210 quick yellow flash with barrel breaking sound
-f000626211 little grey 3d-arrow appears
-f000626215 orange light with gun fire streak, machine gun sound, 5 seconds
-f000626216 orange streaks going into activation point, 3 seconds
-f000626217 small orange flash at activation point
-f000626220 medium orange pulsing light, 5 seconds
-f000626223 wind blowing sound, 3 seconds
-f000626230 n/a
-f000626233 n/a
-f000640200 dim blue-white light, fade out, 4 seconds
-f000640202 white light, two pulses
-f000640205 n/a
-f000640206 n/a
-f000640210 small red blood goo spurt in opposite direction of hit
-f000640216 3 small quick orange pulses followed by 3 seconds of small debris ejected
-f000640220 n/a
-f000640221 n/a
-f000640222 n/a
-f000640223 n/a
-f000640225 air distortion
-f000640230 medium red blood goo spurts the opposite way of hit
-f000640231 quick red blood goo explosion towards player
-f000640235 n/a
-f000640236 n/a
-f000640237 n/a
-f000640242 small red debris on hit
-f000640300 very bright yellow light, fade out, 8 seconds
-f000640301 medium red rock debris explosion
-f000640305 white light fade in, fade out, 3 seconds
-f000640306 white light fade in, fade out, 2 seconds
-f000640307 bright white flash
-f000640310 yellow light, fade out, 3 seconds
-f000640311 white light, centered on player, fade out, 5 seconds
-f000640315 big rock debris exploding towards player
-f000640320 green-white light, fade in and out, 2 seconds
-f000640321 meteor with blue-white light with rotating distortion, fade out, 5 seconds
-f000640322 white light, circular air ripple, some debris, fade out, 2 seconds
-f000640323 white-orange flash with debris exploding out
-f000640324 bluish fog that actually works
-f000640330 green-white light, fade out, 2 seconds
-f000640331 n/a
-f000640332 small white spotlight, fade out, 5 seconds
-f000640333 medium white flash on hit
-f000640334 white flash followed by white air ripple, followed by black fog circle for 6 seconds
-f000645200 ***CRASHES GAME*** Lady Maria Double Overhead blood trail swing
-f000645204 bright orange light, fade out, 2 seconds
-f000645205 small orange flash
-f000645206 expanding red smoke tornado, 2 seconds
-f000645207 expanding red smoke tornado, 2 seconds, followed by white-orange light flash
-f000645210 quick bright orange flash, centered on player
-f000645215 red blood goo spurts out and straight up
-f000645216 big red blood goo explosion
-f000645220 air distortion
-f000645221 expanding white smoke tornado, 2 seconds
-f000645222 air distortion
-f000645223 air distortion followed by white-orange flash
-f000645225 1/2 second delay and then big spurts of red goo blood suck into activation point
-f000645226 big red blood goo explodes low res as if close to player's eyes
-f000645227 dark red lady maria air explosion stage 1 ***CRASHES GAME***
-f000645228 lady maria explosion part 2 ***CRASHES GAME***
-f000645230 red streaks like a meteor trail but ***CRASHES GAME***
-f000645231 n/a
-f000645232 red streaks like a meteor trail but ***CRASHES GAME***
-f000645233 orange light behind player, fade out 2 seconds
-f000645240 ***CRASHES GAME***
-f000635244 orange light, fade out, 2 seconds
-f000645247 .5 second delay then orange light
-f000645250 ***CRASHES GAME***
-f000645254 green light
-f000645256 ***CRASHES GAME***
-f000645257 n/a
-f000645259 n/a
-f000645260 ***CRASHES GAME***
-f000645261 n/a
-f000645263 n/a
-f000645264 distant orange light behind player, fade out 1 second
-f000645265 n/a
-f000645270 ***CRASHES GAME***
-f000645291 n/a
-f000645293 n/a
-f000735002 n/a
-f000735003 n/a
-f000735005 n/a
-f000835001 green light on enemy weapon, fade out, 5 seconds
-f000935000 n/a
-f000935001 n/a
-f000935005 n/a
-f000935010 n/a
-f000935011 aura from a shining light (possible fog alternate?)
-f000935012 n/a
-f000935013 n/a
-f000935020 n/a
-f000935025 n/a
-f000935026 n/a
-f000935030 n/a
-f000935100 green-white light, bright, fade out, 5 seconds
-f000935101 small orange-white light, fade out, 5 seconds
-f000935102 smaller orange-white light, fade out, 8 seconds
-f000935200 n/a
-f000935201 n/a 
-f000935202 n/a
-f000935210 slight air distortion
-f000935211 n/a
-f001262001 n/a
-f001262101 n/a
-
-M36.ffbnd.dcx
-
-f000000370 whitish-red light centered on ground, fade out, 3 seconds
-f000000371 red light centered on ground, fade out, 5 seconds
-f000000372 whitish-red light centered on ground, fade out, 2 seconds
-f000000930 small white lightning, 2-3 tendrils
-f000000931 medium white lightning, 3-4 tendrils
-f000000932 n/a
-f000003037 n/a
-f000003137 n/a
-f000003237 n/a
-f000003337 n/a
-f000003437 n/a
-f000003537 n/a
-f000003637 n/a
-f000003837 n/a
-f000007671 air distortion, 2 seconds, large
-f000007771 grey and red blood vertical explosion slightly to left of activation point
-f000625500 n/a
-f000625501 n/a
-f000625502 n/a
-f000625505
-f000625600 yellow ball of light, original item icon size
-f000625601 extremely bright yellow light, fade out, 5 seconds
-f000640405 small bright yellow-white light at activation point, fade out, 5 seconds
-f000640406 small bright yellow-white light at activation point, fade out, 5 seconds
-f000640407 extremely bright yellow light, fade out, 3 seconds
-f000640408 yellow-white light, fade out
-f000640409 yellow-white light, fade out
-f000640501 bright yellow-white flash with fast pulses
-f000640502 bright white-yellow flash then small white lightning, 2-3 tendrils
-f000640510 fast pulsing bright green light, 5 seconds
-f000640511 very bright yellow-white light, pulse, 1 second
-f000640515 red-white light, fade out, 5 seconds
-f000640516 dimmer red-white light, 4 seconds
-f000640517 small air distortion
-f000640520 bright green light behind activation point in air, fade out, 12 seconds
-f000640525 green light pulsing with white lightning tendrils behind activation point
-f000640256 small green-white light, on for 1 second, off for 1 second, repeat once
-f000640590 red-white light, fade out, 5 seconds
-f000640591 small air distortion
-f000640700 n/a
-f000640701 n/a
-f000640800 big circular air distortion
-f000645401 n/a
-f000645404 pink blood/goo explosion at activation
-f000645406 n/a
-f000645407 yellow flash followed by great goo explosion, 2 seconds total
-f000645408 n/a
-f000645409 yellow-white flash centered on player
-f000645410 ***CRASHES GAME***
-f000645420 small purple sphere light
-f000645421 yellow-white light, fade out, 3 seconds
-f000645422 yellow-white light at activation with red mist, fade out
-f000645423 yellow-white light, fade out, 3 seconds
-f000645424 very bright yellow-white flash, fade out, followed by small debris falling
-f000645425 yellow-white light, fade out, 3 seconds
-f000635426 bright yellow-white light, fade out, 1 second
-f000645430 bright white light, fade out 1 second followed by falling debris
-f000645500 n/a
-f000645501 n/a
-f000651102 bright white flash followed by 2-3 lightning strikes on ground
-f000651112 bright white pulsing with lightning strikes and falling debris, 8 seconds
-f000736000 n/a
-f000736001 n/a
-f000736002 n/a
-f000736003 n/a
-f000736005 n/a
-f000736006 n/a
-f000736103 n/a
-f000736110 n/a
-f000736111 n/a
-f000926023 3 spurts of dark red reflecting blood
-f000936000 n/a
-f000936001 little bursts of water in the air around activation, 3 seconds
-f000936005 n/a
-f000936020 n/a
-f000936100 green light, fade out, 10 seconds
-f000936101 little orange light, fade out, 5 seconds
-f000936102 orange light, fade out, 5 seconds
-f000936200 bright orange light, fade out
-f000936201 bright orange light, fade out
-f000936202 bright orange light, fade out
-f001000537 n/a
-f001000637 n/a
-f001406001 rock debris flies out from activation point
-f001406101 rock debris flies out from activation point
-f001406201 a few bits of rock debris flies out from activation point
-f001406236 n/a
-f001406237 n/a
-f001454010 n/a
-f001454036 n/a
-f001454110 n/a
-f001454136 n/a
-f001454210 rock debris flies out from player
-f001454236 rock debris flies out from player
-f001454310 a few bits of rock debris flies out from player
-f001454336 a very few bits of rock debris flies out from activation point
-f001454410 rock debris flies out from activation point
-f001454436 rock debris flies out from player
-f190000037 n/a
-f190000071 gray and red blood spurts out in the direction of hit
-f190000171 n/a
+f000921216 hunters dream yellow light 1 (high above doll)  
+f000921100 hunters dream yellow light 2 (doll lantern)  
+f000921217 hunters dream Yellow light 3 (general doll area)  
+f001101402 hunters dream grave stone second light  
+f001101403 hunters dream chalice dungeon grave stone light  
+  
+m_24_00 dcx file  
+f000627030 white glow pulsing  
+f000627000 yarnham cathedral priest lantern guys lantern light  
+f000627010 yarnham cathedral priest lantern guys light on projectile launch  
+f000627011 yarnham cathedral priest lantern guys light under actual projectile  
+  
+m25  
+  
+f000725011 after lorarious cutscene swirling wind part 1  
+f000725012 after logarious cutscene wind part 2 (crashy)  
+  
+m28  
+  
+f000610520 simple while ball projectile  
+  
+m29a  
+  
+f10000080 medium lava that spurts out sideways  
+  
+m29b  
+  
+f000610000 n/a  
+f000610050 n/a  
+f000610051 n/a  
+f000610100 dim orange light  
+f000610101 orange flash then dim orange, fadeout, 3 seconds  
+f000610102 quick fade in fade out orange flash  
+f000610110 dim orange light, fadeout, 2 seconds  
+f000610111 orange flash then dim orange light, fadeout, 5 seconds  
+f000610112 quick fade in fade out orange flash  
+f000610150 dim yellow light, fade out, 5 seconds  
+f000610221 air distortion  
+f000610404 n/a  
+f000610450 *** CRASHES GAME ***  
+f000610502   
+f000610505 delay and then flash and then tiny ball with two expanding fading circles  
+f000610510 delay and then orange flash and then large expanding fading mist sphere  
+f000610515 orange light quick pulsing  
+f000610601 n/a  
+f000610611 blue small expanding fading circle and then white light, fadeout, 5 seconds  
+f000610612 contracting transparent blue sphere  
+f000		white light the spins like a siren  
+f000610617 white light air distortion  
+f000610621 green light, thunder sound, light balls exploding up, good for magix  
+f000610622 bright white green light  
+f000610625 very bright white light, thunder sound  
+f000610900 n/a  
+f000610903 n/a  
+f000611101 expanding black transparent sphere, cyclone shaped air distortion  
+f000611105 white light on weapons, fadeout, 5 seconds  
+f000611125 n/a  
+f000611201 transparent splurge of green goo  
+f000611400 n/a  
+f000612200 n/a  
+f000612203 n/a  
+f000612500 n/a  
+f000612710 slight air distortion  
+f000612900 n/a   
+f000612901 two little red balls  
+f000613005 n/a  
+f000620203 white light, fadeout, 3 seconds  
+f000620213 white light then rays of spider webs suck in to activation  
+f000620400 n/a  
+f000620401 n/a  
+f000620410 n/a  
+f000620805 dim white light, fadeout, 2 seconds  
+f000620806 white light and expanding mist cloud  
+f000621001 white light with air distortion, 5 seconds, no fadeout  
+f000621002 expanding black circle, twice  
+f000621006 big purple and black expanding cloud with air distortion  
+f000621011 expanding blue transparent sphere on activation, white light, fadeout 5 seconds  
+f000621012 contracting white transparent circle to white light  
+f000621016 n/a  
+f000621100 expanding blue transparent sphere on activation, white light  
+f000621101 expanding blue transparent sphere on activation  
+f000621104 red-white light, fadeout, 3 seconds  
+f000621201 small intense orange light, flashes 3x, fadeout  
+f000621208 expanding red mist circle  
+f000621220 orange flash, gun sound  
+f000621225 dim orange light  
+f000621226 flickering orange light, fadeout, 3 seconds  
+f000621227 quick orange light  
+f000621228 bright orange light  
+f000621230 n/a  
+f000621232 n/a  
+f000621233 flickering orange light  
+f000621235 orange light, fadeout, 5 seconds  
+f000621605 intense orange light  
+f000621615 orange light and air distortion  
+f000621620 small intense orange light  
+f000621621 small intense orange light  
+  
+m29c  
+  
+f000620900  
+f000620901  
+f000620911  
+f000620915  
+f000620920  
+f000620921  
+f000620990  
+f000631310  
+f000631311  
+f000631318  
+f000631319  
+f000650104 extremely bright orange light, fadeout, 5 seconds  
+f000650109  
+f000650110  
+f000650111  
+f000650113  
+f000650115  
+f000650116  
+f000650119  
+f000650120  
+f000650125  
+f000650127  
+f000650129   
+f000650139   
+f000650163 bright orange light  
+f000650181  
+f000650188  
+f000650195 huge fire lava explosion  
+f000650402 lightning activity around activation point  
+f000650403 super lightning activity around activation point  
+f000650412 3 short orange flashes and then small debris for 5 seconds  
+f000650413 medium debris explodes on activation  
+f000650414 big medium debris explosion on activation  
+f000650415 lightning strike comes down, small white tornado then debris  
+f000650416 big lighting surrounds activation then big white tornado and debris explosion  
+f000650417 lightning strikes surrounding activation and then white tornado sucks in to point  
+f000650418 small air distortion  
+f000650425 quick lightning and then white tornado and debris  
+f000650426 big lighting surrounds activation then big white tornado explodes out and debris   
+f000650435 lightning strike comes down, small white tornado then debris  
+f000650436 white tornado explodes out then lightning strikes and debris explodes  
+f000650450 big red blood explosion  
+f000650455 n/a  
+f000650456 little blood red circle expands from activation  
+f000650800 3 short orange flashes and then small debris for 5 seconds  
+f000650815 quick lightning strikes come down and debris explosion  
+f000650816 3 quick lightning strikes then debris explosion  
+f000650819 lightning strikes from ground at feet of activation point, 5 seconds  
+f000650821 lightning surrounds player after activation, 3 seconds  
+f000650822 big lightning storm then explosion  
+f000650823 big lightning storm surrounding activation  
+f000650824 big lightning storm surrounding activation  
+f000650825 super lightning in columns surrounding activation, 5 seconds  
+f000650827 big transparent blue wave explodes outward and debris  
+f000650828 big transparent blue wave explodes outward and debris  
+f000650829 big transparent blue wave explodes outward and a little debris  
+f000650831 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds  
+f000650832 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds  
+f000650833 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds  
+f000650834 white pulsing light and round lightning storm, light fades halfway thru, 8 seconds  
+f000650835 big lighting surrounds activation then big white tornado explodes out and debris  
+f000650836 big lighting surrounds activation then big white tornado explodes out and debris  
+f000650845 lighting strike pulses  
+f000650850 faster lightning strike pulses  
+f000650855 lightning strikes around activation  
+f000650857 lightning strikes up and left of activation  
+f000650860 lightning strike surrounds, small white tornado then debris  
+f000650861 lightning strike surrounds, small white tornado then debris  
+f000650862 lightning strike surrounds, small white tornado then debris  
+f000650863 lightning strikes from ground at feet of activation point, 5 seconds  
+f000650870 big debris  
+f000650871 huge debris explosion  
+f000650872 large debris  
+f000650895 green light and huge debris explosion  
+f000650905 small flash and small debris  
+f000650910 a little debris  
+f000650915 n/a  
+f000650916  
+f000650920 debris and blood explosion  
+f000650925  
+f000650930 a little blood  
+f000650936 blood and debris  
+f000650940 small orange light  
+f000650941  
+f000650942   
+f000650944   
+f000651000 big air distortion  
+f000651001 big air distortion  
+f000651012 transparent meteor  
+f000651013 white flash and debris explosion  
+f000651014 big transparent white meteor  
+f000651016 white light with distortion  
+f000651017 white light and distortion in the sky  
+f000651217 small white light with debris explosion  
+f000651218 bright white light  
+f000651225 3 short orange light bursts  
+f000651230 small amount of debris  
+f000651232 small distortion and debris  
+f000651233 wind blows up and debris  
+f000651235 big stellar stars sucked into activation  
+f000651236 white light and expanding white mist  
+f000651237 blue wind circles, above head, 5 seconds  
+f000651241 big blood explosion  
+f000651245 n/a  
+f000651246 delay and then small red blood circle expands and disappears  
+f000655100 white light and wind mist explodes with feathers above activation  
+f000655190 a green light and feathers explodes from activation  
+  
+m29d  
+  
+f000610115 small steady orange light  
+f000610116 bright orange light, fadeout, 1 second  
+f000610117 small red light  
+f000611302 small quick yellow light  
+f000611600 n/a  
+f000611601 small orange light 4 random pulses  
+f000612100 n/a  
+f000612300 n/a  
+f000612306 n/a  
+f000630000 fast pulsing bright orange light with heat waves  
+f000630001 smaller, oranger fast pulsing light with heat wave, 8 seconds  
+f000630002 small quick orange light  
+f000630010 expanding fading white circle  
+f000630016 n/a  
+f000630017 n/a  
+f000630021 bright white light  
+f000630022 quick white light  
+f000630102 red little bottle with yellow light and heat waves  
+f000630110 small air distortion  
+f000630115 n/a  
+f000630311 small air distortion and tiny debris  
+f000630405 bright orange-white light  
+f000630410 small orange flash  
+f000630412 n/a  
+f000630415 small debris explosion  
+f000631130 white light  
+f000631200 n/a  
+f000829000 fog ball  
+f000829001 fog ball  
+f000929020 n/a  
+f000929021 n/a  
+f000929045 n/a  
+f000929046 n/a  
+f000929050 sparse debris  
+f000929080 small pulsing orange light  
+f000929130 spotlight on enemy weapon on hit  
+f000929140 n/a  
+f000929141 n/a  
+f000929142 n/a  
+f000929160 pulsing green-blue light  
+f000929209 smoke cloud, dissipates 2 seconds  
+f000929210 smoke cloud, dissipates 2 seconds  
+f000929213 blue light and black circle with stars, 3 seconds  
+f000929215 blue light and black circle with stars, 3 seconds  
+f000929217 dim blue light with black cloud and air distortion  
+f000929218 blue light with air distortion  
+f000929220 weird lens flare  
+f000929225 orange flash  
+f000929226 explosion and debris  
+f000929227 white light, air distortion, and black mist  
+f000929236 sky lightning  
+f000929237 sky lightning   
+f000929238 sky lightning  
+f000929245 n/a  
+f000929260 orange flash  
+f000929300 small yellow-green light  
+f000929302 n/a  
+f000929304 n/a  
+f000929305 n/a  
+  
+m32.ffxbnd.dcx  
+  
+f000000081 real fog that doesn't fill up the whole map  
+f000007661 air distortion  
+f000007761 big blood explosion to the left of activation  
+f000610601 n/a  
+f000610611 yellow light that switches to white light, fade out, 5 seconds  
+f000610612 blue-white light with contracting blue transparent circle of mist  
+f000610616 siren-like white light  
+f000610617 white light  
+f000610621 green light  
+f000610622 bright green-white light  
+f000610625 bright white light  
+f000611101 expanding transparent black sphere, air distortion  
+f000611105 white spotlight up and left of activation point  
+f000611125 n/a  
+f000621100 expanding white sphere  
+f000621101 contracting white sphere  
+f000621104 bright small red light  
+f000625300 white light two flashes then fadeout  
+f000625301 big yellow rock with yellow light, fadeout, 10 seconds  
+f000625302 flash with debris explosion  
+f000625307 white smoke and particles, 5 seconds  
+f000625310 big blue stars and wind sucked in to activation point  
+f000625320 small debris explosion  
+f000625321 n/a  
+f000627300 orange flickering light  
+f000627306 small amount of debris  
+f000627307 small rock debris explodes out  
+f000627308 debris explosion  
+f000627402 n/a  
+f000627407 n/a  
+f000627411 n/a  
+f000631310 air distortion  
+f000651000 air distortion  
+f000651001 air distortion  
+f000651012 rotating transparent meteor, fade out, 5 seconds  
+f000651013 white flash and small amount of debris  
+f000651014 large transparent rock, fade, 1 second  
+f000651016 white light, fadeout, 1 second  
+f000651017 white flash in the air  
+f000932000 small orange light with heatwaves   
+f000932003 n/a  
+f000932007 n/a  
+f000932200 big black cloud with purple light with round air distortion  
+f000932201 white light, air distortion  
+f000932210 big white screen air distortion, 3 seconds  
+f000932211 greenish dispersed light slight flicker  
+f000932220 bright white flashing light, good for items  
+f190000061 spurt of grey blood (fish goo)  
+  
+m33.ffxbnd.dcx  
+  
+f000003033 n/a  
+f000003133 n/a  
+f000003333 n/a  
+f000003433 n/a  
+f000003533 n/a  
+f000003633 n/a  
+f000620805 white light, fade out, 4 seconds  
+f000620806 quick bright white light  
+f000621800 medium orange light, 3 double pulses, fade out, 5 seconds  
+f000621804 lighting strike spherical from activation point  
+f000621805 bright white flickering light with lightning strikes, 1 second  
+f000621810 grey blood (fish goo) big spurt opposite direction of hit  
+f000621806 quick white flash that turns blue and pulses out (for lightning hit)  
+f000621814 smaller, slower gray blood spurt with slight air distortion, same direction as hit  
+f000621850 orange light, fade out, 5 seconds  
+f000624001 a few pieces of random sized debris flies out  
+f000624003 pieces of random sized debris flies out  
+f000624007 tiny rocks fly up from ground on activation  
+f000624005 debris flies out on activation, 2x  
+f000624206 debris flies out on activation, 2x  
+f000624011 super huge debris flies out on activation  
+f000624015 shiny dark red blood spurts out on activation  
+f000625502 n/a  
+f000627105 small debris flies out on activation  
+f000627106 n/a  
+f000627200 tiny debris flies out on activation  
+f000625217 white spotlight, followed by yellow light and then debris explosion  
+f000651218 super bright light, fade out, 5 seconds  
+f000651225 three extremely quick orange pulses  
+f000651230 wide sparse debris explosion on activation  
+f000651232 wide sparse debris explosion on activation  
+f000651233 sparse debris explosion away from activation  
+f000651235 large white distorted light rays surrounding activation  
+f000651236 bright orange light, fade out, 2 seconds  
+f000651237 large blue space and stars circular wind gusts sucked into the left of activation, 5 seconds  
+f000651241 big blood explosion at activation point  
+f000651245 n/a  
+f000651246 n/a  
+f000651350 bright yellow light with distortion, fade out, 5 seconds  
+f000733000 n/a  
+f000926023 short delay and then two spurts of dark red reflect blood  
+f000933009 crow sound  
+f000933050 n/a  
+f001000533 n/a  
+f001000633 n/a  
+  
+m34.ffxbnd.dcx  
+  
+f000003035 n/a  
+f000003041 n/a  
+f000003135 n/a  
+f000003141 n/a  
+f000003235 n/a  
+f000003241 n/a  
+f000003335 n/a  
+f000003341 n/a  
+f000003435 n/a  
+f000003441 n/a  
+f000003535 n/a  
+f000003541 n/a  
+f000003635 n/a  
+f000003641 n/a  
+f000003835 n/a  
+f000003841 n/a  
+f000610900 n/a  
+f000610901 n/a  
+f000610903 two little transparent red nubbins appear then ***CRASHES GAME***  
+f000612900 n/a  
+f000612901 two little transparent red nubbins appear  
+f000612910 n/a  
+f000620900 ***CRASHES GAME***  
+f000620901 big circular air distortion  
+f000620910 small rock debris flies out, 5 seconds  
+f000620911 small orange flash, 3 very quick pulses  
+f000620915 big debris flies out then settles down to ground, 3 seconds  
+f000620916 n/a  
+f000620920 n/a  
+f000620921 burst of real smoke expands on hit  
+f000620941 1 second delay and then small gray blood (fish goo) spurt  
+f000620942 n/a  
+f000620950 n/a  
+f000620951 gray blood (fish goo) spurt, repeat 3x  
+f000620952 n/a  
+f000620953 gray blood (fish goo) spurt, repeat 2x  
+f000620954 n/a  
+f000620960 n/a  
+f000620961 big gray blood (fish goo) spurt, repeat 3x  
+f000620964 n/a  
+f000620980 medium debris explodes up from ground, 3 seconds  
+f000620981 big debris explodes up from ground, 3 seconds  
+f000620990 bright green-white light flash followed by gray blood (fish goo) explosion  
+f000621001 bright orange-white light, no fade out, 3 seconds  
+f000621005 orange-white light, fade out, 4 seconds  
+f000621010 bright green-white light, no fade out, 3 seconds  
+f000621011 bright green spotlight with white lens flare, fade out, 5 seconds  
+f000621015 n/a  
+f000621016 dark red reflecty blood spurt in direction of hit  
+f000621020 orange light, fade out, 5 seconds  
+f000621024 n/a  
+f000621311 n/a  
+f000621312 n/a  
+f000625501 n/a  
+f000625502 n/a  
+f000625505 n/a  
+f000627110 quick small orange flash  
+f000627118 n/a  
+f000627121 n/a  
+f000640000 small quick orange flash, blood sound  
+f000640005 small quick orange flash, blood sound  
+f000640016 small orange circle light with red hot object, no light source  
+f000640020 air distortion to the left of activation  
+f000640021 blood explosion to the left of player  
+f000640070 small air distortion  
+f000640081 ***CRASHES GAME***  
+f000640085 two red streaks but ***CRASHES GAME***  
+f000640086 ***CRASHES GAME***  
+f000640092 n/a  
+f000640093 n/a  
+f000640094 orange light on player, fade out, 2 seconds  
+f000640100 small intense purple blob and light  
+f000640105 small air distortion  
+f000640110 quick orange flash on hit  
+f000640112 bright yellow light, fade out, 2 seconds  
+f000640115 air distortion with small red light, fade out, 2 seconds  
+f000640116 air distortion with medium red-white light, fade out, 2 seconds  
+f000640117 air distortion with medium red-white light, fade out, 2 seconds, followed by circular air distortion  
+f000640118 small air distortion  
+f000640131 purple mist blast followed by another purple fading expanding mist air ripple  
+f000640132 medium white light, fade out, 2 seconds  
+f000645001 large intense orange light, fade out, 5 seconds  
+f000645005 n/a  
+f000645006 large orange light, fade out 3 seconds  
+f000645010 orange light centered on player, fade out, 2 seconds  
+f000645011 orange light, fade out, 2 seconds  
+f000645012 medium intense orange light, flickering, fade out, 5 seconds  
+f000645020 small intense orange light centered on player but far away  
+f000645021 medium circular orange mist, fade out, 5 seconds  
+f000645022 n/a  
+f000645025  
+f000645030 air distortion, 3 seconds  
+f000645035 bright white light followed by big orange blood goo explosion, 3 seconds  
+f000645025 intense large orange light, fade out, 5 seconds  
+f000640111 n/a  
+f000640130 white light, fade out, 3 seconds  
+f000645102 n/a  
+f000645104 bright green-white light, flickering, fade out, 5 seconds  
+f000645111 very small orange light, 3 very quick pulses and two spurts of small debris  
+f000645112 very small orange light, 3 very quick pulses and two spurts of small debris  
+f000645114 n/a  
+f000645115 ***CRASHES GAME***  
+f000645118 green light above and behind activation  
+f000645119 some sort of transparent light but ***CRASHES GAME***  
+f000645120 bright green-white light with shaft of light towards activation point  
+f000645121 ***CRASHES GAME** but probably the same as above with orange-white light  
+f000645122 bright green-white light  
+f000645127 bright green-white light with shaft of light towards activation point  
+f000645130 bright green-white light, air distortion, debris explosion  
+f000645135 very bright green-white light, fade out, 6 seconds  
+f000645136 smoke-like flowing off activation, 1 second  
+f000645144 very small orange light, 3 very quick pulses and two spurts of small debris  
+f000645151 bright green-white light  
+f000645152 very bright green-white light, 3 quick pulses  
+f000645160 n/a  
+f000645161 n/a  
+f000645190 small air distortion  
+f000734200 n/a  
+f000734204 n/a  
+f000734209  
+f000734300   
+f000734302  
+f000734303 green-white light that faces enemy front, fade out, 3 seconds  
+f000734304 green-white light with rays coming down to activation point, fade out, 2 seconds  
+f000734306 green-white light with vertical black circular distortion, fade out, 3 seconds  
+f000734308 wide black light ray with glowing edge coming from sky to activation point, 3 seconds  
+f000834000 green-white light behind activation point, fade out, 3 seconds  
+f000834002 green-white light behind activation point, fade out, 8 seconds  
+f000934100 orange light, fade out, 8 seconds  
+f000934200 small air distortion followed by medium circular debris ejection  
+f000934212 small orange flash  
+f001000335 n/a  
+f001000341 n/a  
+f001000535 n/a  
+f001000541 n/a  
+f001000635 n/a  
+f001000641 n/a  
+f001451027 n/a  
+f001451127 n/a  
+f001451135 n/a  
+f001451201 small distortion followed by circular large debris ejection  
+f001451227 n/a  
+f001451235 small distortion followed by circular large debris ejection  
+f001451301 small distortion followed by circular large debris ejection  
+f001451335 small distortion followed by circular large debris ejection  
+f001451435 small distortion followed by circular large debris ejection  
+f001451535 n/a  
+f001451735 n/a  
+f001451835 circular large debris ejection  
+f001451935 medium debris eruption from ground to right of activation point  
+f190780000 gray blood (fish goo) spurt in direction of hit  
+f190900400 orange blood (maybe lava) big spurt in direction of hit  
+  
+  
+m35_ffxbnd.dcx  
+  
+f000000370 red light with air distortion, fade out, 2 seconds  
+f000000317 red light, fade out, 5 seconds  
+f000000372 red light with air distortion, fade out, 2 seconds  
+f000003034 n/a  
+f000611000 n/a  
+f000626200 quick yellow-white flash explosion  
+f000626201 n/a  
+f000626210 quick yellow flash with barrel breaking sound  
+f000626211 little grey 3d-arrow appears  
+f000626215 orange light with gun fire streak, machine gun sound, 5 seconds  
+f000626216 orange streaks going into activation point, 3 seconds  
+f000626217 small orange flash at activation point  
+f000626220 medium orange pulsing light, 5 seconds  
+f000626223 wind blowing sound, 3 seconds  
+f000626230 n/a  
+f000626233 n/a  
+f000640200 dim blue-white light, fade out, 4 seconds  
+f000640202 white light, two pulses  
+f000640205 n/a  
+f000640206 n/a  
+f000640210 small red blood goo spurt in opposite direction of hit  
+f000640216 3 small quick orange pulses followed by 3 seconds of small debris ejected  
+f000640220 n/a  
+f000640221 n/a  
+f000640222 n/a  
+f000640223 n/a  
+f000640225 air distortion  
+f000640230 medium red blood goo spurts the opposite way of hit  
+f000640231 quick red blood goo explosion towards player  
+f000640235 n/a  
+f000640236 n/a  
+f000640237 n/a  
+f000640242 small red debris on hit  
+f000640300 very bright yellow light, fade out, 8 seconds  
+f000640301 medium red rock debris explosion  
+f000640305 white light fade in, fade out, 3 seconds  
+f000640306 white light fade in, fade out, 2 seconds  
+f000640307 bright white flash  
+f000640310 yellow light, fade out, 3 seconds  
+f000640311 white light, centered on player, fade out, 5 seconds  
+f000640315 big rock debris exploding towards player  
+f000640320 green-white light, fade in and out, 2 seconds  
+f000640321 meteor with blue-white light with rotating distortion, fade out, 5 seconds  
+f000640322 white light, circular air ripple, some debris, fade out, 2 seconds  
+f000640323 white-orange flash with debris exploding out  
+f000640324 bluish fog that actually works  
+f000640330 green-white light, fade out, 2 seconds  
+f000640331 n/a  
+f000640332 small white spotlight, fade out, 5 seconds  
+f000640333 medium white flash on hit  
+f000640334 white flash followed by white air ripple, followed by black fog circle for 6 seconds  
+f000645200 ***CRASHES GAME*** Lady Maria Double Overhead blood trail swing  
+f000645204 bright orange light, fade out, 2 seconds  
+f000645205 small orange flash  
+f000645206 expanding red smoke tornado, 2 seconds  
+f000645207 expanding red smoke tornado, 2 seconds, followed by white-orange light flash  
+f000645210 quick bright orange flash, centered on player  
+f000645215 red blood goo spurts out and straight up  
+f000645216 big red blood goo explosion  
+f000645220 air distortion  
+f000645221 expanding white smoke tornado, 2 seconds  
+f000645222 air distortion  
+f000645223 air distortion followed by white-orange flash  
+f000645225 1/2 second delay and then big spurts of red goo blood suck into activation point  
+f000645226 big red blood goo explodes low res as if close to player's eyes  
+f000645227 dark red lady maria air explosion stage 1 ***CRASHES GAME***  
+f000645228 lady maria explosion part 2 ***CRASHES GAME***  
+f000645230 red streaks like a meteor trail but ***CRASHES GAME***  
+f000645231 n/a  
+f000645232 red streaks like a meteor trail but ***CRASHES GAME***  
+f000645233 orange light behind player, fade out 2 seconds  
+f000645240 ***CRASHES GAME***  
+f000635244 orange light, fade out, 2 seconds  
+f000645247 .5 second delay then orange light  
+f000645250 ***CRASHES GAME***  
+f000645254 green light  
+f000645256 ***CRASHES GAME***  
+f000645257 n/a  
+f000645259 n/a  
+f000645260 ***CRASHES GAME***  
+f000645261 n/a  
+f000645263 n/a  
+f000645264 distant orange light behind player, fade out 1 second  
+f000645265 n/a  
+f000645270 ***CRASHES GAME***  
+f000645291 n/a  
+f000645293 n/a  
+f000735002 n/a  
+f000735003 n/a  
+f000735005 n/a  
+f000835001 green light on enemy weapon, fade out, 5 seconds  
+f000935000 n/a  
+f000935001 n/a  
+f000935005 n/a  
+f000935010 n/a  
+f000935011 aura from a shining light (possible fog alternate?)  
+f000935012 n/a  
+f000935013 n/a  
+f000935020 n/a  
+f000935025 n/a  
+f000935026 n/a  
+f000935030 n/a  
+f000935100 green-white light, bright, fade out, 5 seconds  
+f000935101 small orange-white light, fade out, 5 seconds  
+f000935102 smaller orange-white light, fade out, 8 seconds  
+f000935200 n/a  
+f000935201 n/a   
+f000935202 n/a  
+f000935210 slight air distortion  
+f000935211 n/a  
+f001262001 n/a  
+f001262101 n/a  
+  
+M36.ffbnd.dcx  
+  
+f000000370 whitish-red light centered on ground, fade out, 3 seconds  
+f000000371 red light centered on ground, fade out, 5 seconds  
+f000000372 whitish-red light centered on ground, fade out, 2 seconds  
+f000000930 small white lightning, 2-3 tendrils  
+f000000931 medium white lightning, 3-4 tendrils  
+f000000932 n/a  
+f000003037 n/a  
+f000003137 n/a  
+f000003237 n/a  
+f000003337 n/a  
+f000003437 n/a  
+f000003537 n/a  
+f000003637 n/a  
+f000003837 n/a  
+f000007671 air distortion, 2 seconds, large  
+f000007771 grey and red blood vertical explosion slightly to left of activation point  
+f000625500 n/a  
+f000625501 n/a  
+f000625502 n/a  
+f000625505  
+f000625600 yellow ball of light, original item icon size  
+f000625601 extremely bright yellow light, fade out, 5 seconds  
+f000640405 small bright yellow-white light at activation point, fade out, 5 seconds  
+f000640406 small bright yellow-white light at activation point, fade out, 5 seconds  
+f000640407 extremely bright yellow light, fade out, 3 seconds  
+f000640408 yellow-white light, fade out  
+f000640409 yellow-white light, fade out  
+f000640501 bright yellow-white flash with fast pulses  
+f000640502 bright white-yellow flash then small white lightning, 2-3 tendrils  
+f000640510 fast pulsing bright green light, 5 seconds  
+f000640511 very bright yellow-white light, pulse, 1 second  
+f000640515 red-white light, fade out, 5 seconds  
+f000640516 dimmer red-white light, 4 seconds  
+f000640517 small air distortion  
+f000640520 bright green light behind activation point in air, fade out, 12 seconds  
+f000640525 green light pulsing with white lightning tendrils behind activation point  
+f000640256 small green-white light, on for 1 second, off for 1 second, repeat once  
+f000640590 red-white light, fade out, 5 seconds  
+f000640591 small air distortion  
+f000640700 n/a  
+f000640701 n/a  
+f000640800 big circular air distortion  
+f000645401 n/a  
+f000645404 pink blood/goo explosion at activation  
+f000645406 n/a  
+f000645407 yellow flash followed by great goo explosion, 2 seconds total  
+f000645408 n/a 
+f000645409 yellow-white flash centered on player  
+f000645410 ***CRASHES GAME***  
+f000645420 small purple sphere light  
+f000645421 yellow-white light, fade out, 3 seconds  
+f000645422 yellow-white light at activation with red mist, fade out  
+f000645423 yellow-white light, fade out, 3 seconds  
+f000645424 very bright yellow-white flash, fade out, followed by small debris falling  
+f000645425 yellow-white light, fade out, 3 seconds  
+f000635426 bright yellow-white light, fade out, 1 second  
+f000645430 bright white light, fade out 1 second followed by falling debris  
+f000645500 n/a  
+f000645501 n/a  
+f000651102 bright white flash followed by 2-3 lightning strikes on ground  
+f000651112 bright white pulsing with lightning strikes and falling debris, 8 seconds  
+f000736000 n/a  
+f000736001 n/a  
+f000736002 n/a  
+f000736003 n/a  
+f000736005 n/a  
+f000736006 n/a  
+f000736103 n/a  
+f000736110 n/a  
+f000736111 n/a  
+f000926023 3 spurts of dark red reflecting blood  
+f000936000 n/a  
+f000936001 little bursts of water in the air around activation, 3 seconds  
+f000936005 n/a  
+f000936020 n/a  
+f000936100 green light, fade out, 10 seconds  
+f000936101 little orange light, fade out, 5 seconds  
+f000936102 orange light, fade out, 5 seconds  
+f000936200 bright orange light, fade out  
+f000936201 bright orange light, fade out  
+f000936202 bright orange light, fade out  
+f001000537 n/a  
+f001000637 n/a  
+f001406001 rock debris flies out from activation point  
+f001406101 rock debris flies out from activation point  
+f001406201 a few bits of rock debris flies out from activation point  
+f001406236 n/a  
+f001406237 n/a  
+f001454010 n/a  
+f001454036 n/a  
+f001454110 n/a  
+f001454136 n/a  
+f001454210 rock debris flies out from player  
+f001454236 rock debris flies out from player  
+f001454310 a few bits of rock debris flies out from player  
+f001454336 a very few bits of rock debris flies out from activation point  
+f001454410 rock debris flies out from activation point  
+f001454436 rock debris flies out from player  
+f190000037 n/a  
+f190000071 gray and red blood spurts out in the direction of hit  
+f190000171 n/a  
