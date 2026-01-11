@@ -1,6 +1,10 @@
 # BloodBorne-SFX-Bible-from-Xenobyte-and-Gazu---all-FXR-files-cataloged
 All the BloodBorne .FXR SFX files cataloged as to what they do
 
+Just a reminder we also did 75%, or so of the legwork on the FXR file structure and making a rudimentary parser. If someone wants to finish it the info is here: 
+https://github.com/xenobyteOG/bbfxrtoxml
+
+I addition the last time this was updated was when Shad didn't do all the SFX with Intel so if there's updates or inaccuracies post them in issues and I'll update. Thanks! 
 
 Well, folks, I think it's been long enough to pass this along to someone else. Gazu and I worked for hours and hours to create this repository of every FXR file in BloodBorne and what it does on screen. You will see our colorful and insane language to describe best as we could what it looked like in action. Also, you will be able to see the numbering system and method they used in BloodBorne and prob other FromSoft games. Basically you'd get a main FXR files and the n/a ones beneath it are likely different variations of that SFX that rely on the parent FXR file to work. That's why when they were tested stand alone they did nothing or it was a ton of dupes in a row.
 This bible is how we were able to make the SFXR mod so good and helpful to hundreds of thousands of you. We hope to pass it along now so that someone else can pick the torch and make something great with the game we all love!
