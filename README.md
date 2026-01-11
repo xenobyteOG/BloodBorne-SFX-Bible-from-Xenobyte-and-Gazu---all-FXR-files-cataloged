@@ -1,5 +1,5 @@
 # BloodBorne-SFX-Bible-from-Xenobyte-and-Gazu---all-FXR-files-catalogued
-All the BloodBorne .FXR SFX files cataloged as to what they do in terms of actual graphics. Useful for modding like for instance, I combined an explosion one and a rock debris one this week for making a dynamite SFX using the ONESHOTSFX command when it detected a flag in EVEMD. Great for making new SFX and sprucing up any mod or project.
+All the BloodBorne .FXR SFX files catalogued as to what they do in terms of actual graphics. Useful for modding like for instance, I combined an explosion one and a rock debris one this week for making a dynamite SFX using the ONESHOTSFX command when it detected a flag in EVEMD. Great for making new SFX and sprucing up any mod or project.
 
 Just a reminder we also did 75%, or so of the legwork on the FXR file structure and making a rudimentary parser. If someone wants to finish it the info is here: 
 https://github.com/xenobyteOG/bbfxrtoxml
