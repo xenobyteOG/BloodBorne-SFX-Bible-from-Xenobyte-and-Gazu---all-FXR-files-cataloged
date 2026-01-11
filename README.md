@@ -19,6 +19,87 @@ Also, if you are looking to change an SFX in the game, remember, it may be liter
 
 COMMON GFX FILE 
 
+f000020255 edibles  
+f000020257 sedatives  
+f000000500 Fire Paper  
+  
+f000020275 Iosefka's  
+  
+f000900201 item glow  
+f190000000 blood  
+f000610250 TORCH wenemies  
+f000021051 TORCH player  
+f000000210 Player light  
+  
+f000021052 Player Lantern  
+f000063111 living creatures  
+f000020359 white bang that fades  
+f000020303 little head  
+f000020297 cloud with sound  
+f000020276 small fire explosion  
+f000020275 no light (crashes)  
+f000202002 roar with slashes  
+f000700001 flashlight directional  
+  
+f000006000 to 6002 - Rifle  
+f000000042 big aura explotion  
+f000000045 small red square with black x on self (lol)  
+f000000053 white ring of radagon  
+f000000054 white square with black bars  
+f000000060 yellow blast  
+f000000089 small white blast (fog wall?)  
+f000000092 big yellow flaming light  
+f000000092 a 95 : crashy flames ?  
+f000000110 prevalent yellowhite flamelight  
+f000000117 prevalent green light  
+f000000118 red light and then melting ball of goo  
+f000000119 small white explotion on self  
+f000000121 warp sfx  
+f000000122 prevalent orange light  
+f000000123 orange light  
+f000000124 prevalent redorange light  
+f000000140  
+f000000170  
+f000000171 ***CRASHES GAME***  
+f000000175  red blotch that expands outward likely the blood bullet fx  
+f000000178 doll level up sfx after you hit confirm  
+f000000180 doll level up SFX in her hands before confirm  
+f000000200-f000000263 fire shades???  
+f000000300 circular air effect going in  
+f000000301 n/a  
+f000000302 n/a  
+f000000303 circular air ripple effect going out  
+f000000304 black circular dripping muds  
+f000000305 circular air ripple effect, less pronounced  
+f000000310 short small blue flash  
+f000000311 short small red flash  
+f000000320 yellow flash and soul suck sound  
+f000000340 circular air ripple, .5 seconds later gunshot sound, explosion  
+f000000341 white flash then air ripple and red flash fadeout  
+f000000342 slightly delayed white flash and then air ripple  
+f000000350 yellow bright medium size flash and then fadeout with soul suck sound  
+f000000351 yellow bright medium size flash and then eerie ghost soul suck sound  
+f000000400 n/a  
+f000000401 **CRASHES GAME***  
+f000000456 n/a  
+f000000459 n/a  
+f000000500 fire paper  
+f000000501 empty phantasm shell sound cue and texture cue  
+f000000502 lightning paper sound cue and texture cue  
+f000000520 n/a  
+f000000550 medium orange glow that stays on for 5 seconds  
+f000000552 three small white round flashes 1 seconds apart, like lightning  
+f000000556 delayed blood fountain, shoots into air toward player after 1 second  
+f000000559 blood gooey gush on hit, 1 second later huge geyser of goo blood in air  
+f000000800 n/a  
+f000000806 thunder sound on hit  
+f000000810 n/a  
+f000000811 n/a  
+f000000820 slow gooey blood splash  
+f000000821 super gooey gushy slow blood explosion  
+f000000830 gooey gushy slow blood explosion  
+f000000835 n/a  
+f000000845 n/a  
 f000000850 n/a  
 f000000851 n/a  
 f000000854 n/a  
@@ -71,7 +152,7 @@ f000006202 very quick small bright flash
 f000006203 very quick medium bright flash  
 f000006205 orange sphere with lines streaming off but ***CRASHES GAME***  
 f000006210 orange sphere with lines streaming off but ***CRASHES GAME***  
-f000006215 big yellow flash centered on body  
+f000006215 big yellow explosion - maybe for molotov  
 f000006300 ***CRASHES GAME***  
 f000006302 short bright flash centered on body  
 f000006303 short bright flash centered on body  
@@ -125,7 +206,7 @@ f000007659 wavey air effect slight slight left of activation point
 f000002000  
 f000003000  
 f000020305 n/a  
-f000020359 yellow flash with sound, fade out 2 seconds  
+f000020359 yellow expanding little golden bubble, with small sound  
 f000021051 yellow flash, 5 seconds  
 f000021052 yellow flash, 5 seconds  
 f000020200 Molotov explosion  
