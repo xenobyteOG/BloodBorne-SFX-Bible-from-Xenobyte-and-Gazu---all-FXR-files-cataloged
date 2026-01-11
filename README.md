@@ -17,12 +17,12 @@ Here's how the files work. Common SFX file is the first one listed. Those graphi
 
 COMMON GFX FILE 
 
-f000000850 n/a
-f000000851 n/a
-f000000854 n/a
-f000000855 n/a
-f000000865 n/a
-f000000866 n/a
+f000000850 n/a  
+f000000851 n/a  
+f000000854 n/a  
+f000000855 n/a  
+f000000865 n/a  
+f000000866 n/a  
 f000000868 ***CRASHES GAME***
 f000000869 white mist sucked in to central point (good for health inject)
 f000000870 n/a
