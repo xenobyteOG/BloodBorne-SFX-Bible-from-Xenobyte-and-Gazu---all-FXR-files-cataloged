@@ -15,6 +15,8 @@ THE SFXR BloodBorne FXR BIBLE - Xenobyte and Gazu - hit the RAW buttton if you w
 
 Here's how the files work. Common SFX file is the first one listed. Those graphics are available everywhere in game. The individual map files FXR are only accessible on those maps, BUT you can easily replace one FXR from one map with an FXR from another as long as you keep the filenames exactly the same when you replace it. I suggest renaming the original one you replace like 0000023445.FXR.og so you have it just in case but you get the idea. Just BE CAREFUL what you replace. Even if it says N/A or not used or crashes game it may well be used somehow. That's how we had the infamous "fire feet" bug the plagued the mod for two months before we figured out one of those N/A were actually dust from starting running. We replaced it with a tiny flame and the rest is history. So just be careful. 
 
+Also, if you are looking to change an SFX in the game, remember, it may be literally three places - COMMON file, DLC file, and PATCH file. A few times we had to remove or change all 3, although if memory serves there isn't much in PATCH and DLC supercedes the COMMON file, but don't always rely on that. BLOODBORNE IS WEIRD and has a ton of idosyncracies when it comes to stuff like this. You can literally see they built it on Dark Souls 1 and half the stuff doesn't even do anything because it is ripped straight from Dark Souls 1 inside the actual game param files. TLDR: Don't rely on a pattern or system to hold true always. It won't.
+
 COMMON GFX FILE 
 
 f000000850 n/a  
