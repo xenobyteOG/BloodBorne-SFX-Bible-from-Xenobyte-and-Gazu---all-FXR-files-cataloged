@@ -6,7 +6,9 @@ https://github.com/xenobyteOG/bbfxrtoxml
 
 I addition the last time this was updated was when Shad didn't do all the SFX with Intel so if there's updates or inaccuracies post them in issues and I'll update. Thanks! 
 
-Please also remember that this is Intel-based, mainly especially the 12th generation that can't run the SFX without crashing. It's why we started this after all, so if it says CRASHES GAME it may work on AMD or work with later Intel or even work now with updated Shad. I'm always on the Shad or Test Data discord DM me and I'm happy to talk your ear off about FXR lol. 
+Please also remember that this is Intel-based, mainly especially the 12th generation that can't run the SFX without crashing. It's why we started this after all, so if it says CRASHES GAME it may work on AMD or work with later Intel or even work now with updated Shad. I'm always on the Shad or Test Data discord DM me and I'm happy to talk your ear off about FXR lol. Now to the main event:
+
+------
 
 Well, folks, I think it's been long enough to pass this along to someone else. Gazu and I worked for hours and hours to create this repository of every FXR file in BloodBorne and what it does on screen. You will see our colorful and insane language to describe best as we could what it looked like in action. Also, you will be able to see the numbering system and method they used in BloodBorne and prob other FromSoft games. Basically you'd get a main FXR files and the n/a ones beneath it are likely different variations of that SFX that rely on the parent FXR file to work. That's why when they were tested stand alone they did nothing or it was a ton of dupes in a row.
 This bible is how we were able to make the SFXR mod so good and helpful to hundreds of thousands of you. We hope to pass it along now so that someone else can pick the torch and make something great with the game we all love!
