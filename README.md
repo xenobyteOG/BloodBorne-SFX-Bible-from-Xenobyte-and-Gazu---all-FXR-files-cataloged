@@ -29,7 +29,7 @@ f000000500 Fire Paper
 f000020275 Iosefka's  
   
 f000900201 item glow  
-f190000000 blood  
+f190000000 blood on attack  
 f000610250 TORCH enemies  
 f000021051 TORCH player  
 f000000210 Player light  
