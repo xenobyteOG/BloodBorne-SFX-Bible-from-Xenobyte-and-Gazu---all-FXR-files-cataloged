@@ -1,15 +1,21 @@
 # BloodBorne-SFX-Bible-from-Xenobyte-and-Gazu---all-FXR-files-cataloged
-All the BloodBorne .FXR SFX files cataloged as to what they do
+All the BloodBorne .FXR SFX files cataloged as to what they do in terms of actual graphics. Useful, for instance, I combined and explosion one and a rock debris one this week for making a dynamite SFX. Great for nodding. 
 
 Just a reminder we also did 75%, or so of the legwork on the FXR file structure and making a rudimentary parser. If someone wants to finish it the info is here: 
 https://github.com/xenobyteOG/bbfxrtoxml
 
 I addition the last time this was updated was when Shad didn't do all the SFX with Intel so if there's updates or inaccuracies post them in issues and I'll update. Thanks! 
 
+Please also remember that this is Intel-based, mainly especially the 12th generation that can't run the SFX without crashing. It's why we started this after all, so if it says CRASHES GAME it may work on AMD or work with later Intel or even work now with updated Shad. I'm always on the Shad or Test Data discord DM me and I'm happy to talk your ear off about FXR lol. 
+
 Well, folks, I think it's been long enough to pass this along to someone else. Gazu and I worked for hours and hours to create this repository of every FXR file in BloodBorne and what it does on screen. You will see our colorful and insane language to describe best as we could what it looked like in action. Also, you will be able to see the numbering system and method they used in BloodBorne and prob other FromSoft games. Basically you'd get a main FXR files and the n/a ones beneath it are likely different variations of that SFX that rely on the parent FXR file to work. That's why when they were tested stand alone they did nothing or it was a ton of dupes in a row.
 This bible is how we were able to make the SFXR mod so good and helpful to hundreds of thousands of you. We hope to pass it along now so that someone else can pick the torch and make something great with the game we all love!
 
 THE SFXR BloodBorne FXR BIBLE - Xenobyte and Gazu - hit the RAW buttton if you want it in separate line format
+
+Here's how the files work. Common SFX file is the first one listed. Those graphics are available everywhere in game. The individual map files FXR are only accessible on those maps, BUT you can easily replace one FXR from one map with an FXR from another as long as you keep the filenames exactly the same when you replace it. I suggest renaming the original one you replace like 0000023445.FXR.og so you have it just in case but you get the idea. Just BE CAREFUL what you replace. Even if it says N/A or not used or crashes game it may well be used somehow. That's how we had the infamous "fire feet" bug the plagued the mod for two months before we figured out one of those N/A were actually dust from starting running. We replaced it with a tiny flame and the rest is history. So just be careful. 
+
+COMMON GFX FILE 
 
 f000000850 n/a
 f000000851 n/a
