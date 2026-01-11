@@ -32,19 +32,19 @@ f000900201 item glow
 f190000000 blood on attack  
 f000610250 TORCH enemies  
 f000021051 TORCH player  
-f000000210 Player light  
+f000000210 Player light aura  
   
 f000021052 Player Lantern  
-f000063111 living creatures  
+f000063111 living creatures (messengers probabaly)  
 f000020359 white bang that fades  
 f000020303 little head  
 f000020297 cloud with sound  
 f000020276 small fire explosion  
 f000020275 no light (crashes)  
 f000202002 roar with slashes  
-f000700001 flashlight directional  
+f000700001 spotlight directional  
   
-f000006000 to 6002 - Rifle  
+f000006000 to 6002 - various Rifle  
 f000000042 big aura explotion  
 f000000045 small red square with black x on self (lol)  
 f000000053 white ring of radagon  
