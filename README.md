@@ -27,7 +27,7 @@ f000020275 Iosefka's
   
 f000900201 item glow  
 f190000000 blood  
-f000610250 TORCH wenemies  
+f000610250 TORCH enemies  
 f000021051 TORCH player  
 f000000210 Player light  
   
@@ -47,9 +47,9 @@ f000000045 small red square with black x on self (lol)
 f000000053 white ring of radagon  
 f000000054 white square with black bars  
 f000000060 yellow blast  
-f000000089 small white blast (fog wall?)  
+f000000089 small white blast
 f000000092 big yellow flaming light  
-f000000092 a 95 : crashy flames ?  
+f000000095 crashy flames 
 f000000110 prevalent yellowhite flamelight  
 f000000117 prevalent green light  
 f000000118 red light and then melting ball of goo  
@@ -107,7 +107,7 @@ f000000855 n/a
 f000000865 n/a  
 f000000866 n/a  
 f000000868 ***CRASHES GAME***  
-f000000869 white mist sucked in to central point (good for health inject)  
+f000000869 white mist sucked in to central point
 f000000870 n/a  
 f000000880 small lightning on hit  
 f000000900 steam then black leaves, 10 seconds  
@@ -152,7 +152,7 @@ f000006202 very quick small bright flash
 f000006203 very quick medium bright flash  
 f000006205 orange sphere with lines streaming off but ***CRASHES GAME***  
 f000006210 orange sphere with lines streaming off but ***CRASHES GAME***  
-f000006215 big yellow explosion - maybe for molotov  
+f000006215 big yellow explosion - maybe for molotov
 f000006300 ***CRASHES GAME***  
 f000006302 short bright flash centered on body  
 f000006303 short bright flash centered on body  
@@ -172,7 +172,7 @@ f000006405 n/a
 f000006410 n/a  
 f000006415 n/a  
 f000006500 n/a  
-f000006502 rosmarius spray (doesn't render yet)  
+f000006502 rosmarinus spray
 f000006503 sucking sound and then distant train horn blows twice  
 f000006505 n/a  
 f000006510 n/a  
@@ -229,7 +229,7 @@ f000822000 wavy air effect for fog wall with green light centered on middle of w
 f000824100 **** Wavy air effect for most fog walls   
 f000824103 wavy air effect for fog wall with green light included centered on floor  
 f000828000 big white light that cuts across screen  
-f000900100 small yellow flickery light (good for lantern?)  
+f000900100 small yellow flickery light
 f000900101 actual candle flame with flicker  
 f000900102 green light with flame slow flicker  
 f000900103 actual candle flame with flicker and greenish mist  
@@ -652,7 +652,7 @@ f000610150 yellow light (lamp?)
 f000610300 dirt cloud + rocks  
 f000610301 big dirt cloud + rocks  
 f000610404 nothing  
-f000610502 white light with waves (lamp?)  
+f000610502 white light with waves
 f000610516 yellow light 1sec  
 f000610520 led circle tip with very white light  
 f000610551 black leak with very white light  
@@ -663,7 +663,7 @@ f000610612 blue halo with white bang (sound)
 f000610615 white bang - brain sucker projectile  
 f000610616 moving white light  
 f000610617 white bang  
-f000610621 white bang HARD CRASH (fixed)  
+f000610621 white bang
 f000610622 big white bang  
 f000610625 big white bang  
 f000610626 nothing  
@@ -819,7 +819,7 @@ f000625706 two burst of rocks
 f000625710 white light 2sec  
 f000625715 same  
 f000625716 white light to black void  
-f000625720 giant greenish blind light (CRASH-fixed)  
+f000625720 giant greenish blind light
 f000625721 giant blueish blind light  
 f000626200 short yellow flash  
 f000626210 same  
@@ -855,8 +855,8 @@ f000627410 nothing
 f000627411 nothing  
 f000627415 nothing  
 f000628104 nothing  
-f000630000 yellow flamy light too bright  
-f000630001 yellower flamy light 12sec  
+f000630000 yellow flamey light too bright  
+f000630001 yellower flamey light 12sec  
 f000630002 yellow flash  
 f000630022 white flash  
 f000630601 yellow light activation + blood stream  
@@ -877,16 +877,16 @@ f000630651 5 sec yellow light
 f000630652 normal blood spater  
 f000630656 blood faucet  
 f000630657 yellow activation light  
-f000630665 normal blood spater  
+f000630665 normal blood spatter  
 f000630666 redish light  
 f000631215 Wind !  
 f000631300 big shoot  
 f000631305 debris shower  
 f000631309 waveforce and debris  
 f000631310 translucent void  
-f000631311 mega blood spater  
-f000631315 giant blood spater  
-f000631316 giant blood spater  
+f000631311 mega blood spatter  
+f000631315 giant blood spatter  
+f000631316 giant blood spatter  
 f000631317 blood spater  
 f000631318 red faded circle  
 f000631319 red circle expanding  
@@ -1083,7 +1083,7 @@ f000252060 huge blood explosion, all 4 directions with a little distortion
 f000252062 huge blood explosion directions: up, left, right  
 f000252070 small flickery orange light 1 second, also dentist drill sound 3 seconds  
 f000252071 small flickery orange light and dentist drill sound, 3 seconds  
-f000252080 fast large white mist explosion (***better for healing injection)  
+f000252080 fast large white mist explosion
 f000252082 mist tornado with debris flies up, starts at head height  
 f000252090 ***CRASHES GAME***  
 f000252091 ***CRASHES GAME***  
@@ -1744,7 +1744,7 @@ f000935000 n/a
 f000935001 n/a  
 f000935005 n/a  
 f000935010 n/a  
-f000935011 aura from a shining light (possible fog alternate?)  
+f000935011 aura from a shining light  
 f000935012 n/a  
 f000935013 n/a  
 f000935020 n/a  
@@ -1865,3 +1865,5 @@ f001454436 rock debris flies out from player
 f190000037 n/a  
 f190000071 gray and red blood spurts out in the direction of hit  
 f190000171 n/a  
+
+congratulations - if you made it this far you are insane and love BloodBorne as much as us. Can't wait to see what you do with it!  
